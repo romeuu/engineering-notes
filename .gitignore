@@ -1,1 +1,10 @@
 .obsidian/workspace.json
+.git/
+.obsidian/plugins/*/data.json
+
+# Latex
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
