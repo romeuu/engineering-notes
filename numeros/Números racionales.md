@@ -105,7 +105,95 @@ $$
 
 ---
 
+
+## Forma decimal
+
+La forma decimal de una fracción es una expresión numérica, formada por una parte entera y una decimal. 
+
+Por ejemplo, podemos decir que la forma de esta fracción es igual a: $$\frac{12}{5} = 2.4$$
+### Tipos de formas decimales
+
+#### Estricta
+
+La forma decimal estricta es la que tiene un número de decimales finitos. Por ejemplo:
+ $$\frac{12}{5} = 2.4$$
+#### Periódica
+
+La forma periódica es el caso contrario, por ejemplo:
+
+$$
+\frac{1}{3} = 0,\overline{3}
+$$
+Este sombrero que se pone sobre el tres indica que los decimales se repiten infinitas veces, también llamado periodo.
+
+##### Tipos de periodos
+
+Existen diferentes tipos de periodos:
+
+- **Periódico puro**: Es decir que toda la parte decimal se repite en secuencia, por ejemplo: $$0,\overline{3}$$
+- **Periódico mixto**: Lo contrario, es decir hay una parte en el periodo que no se repite infinitamente. Por ejemplo: $$0,15\overline{2}$$
+Si queremos transformar una forma decimal a una forma fraccionaria, tendremos que hacer lo siguiente:
+
+ - Si la forma decimal es **exacta**, se eliminará la coma decimal y el denominador será un 1 seguido de tantos 0 como decimales tenga, por ejemplo:
+
+$$
+3,465 = \frac{3465}{1000}
+$$
+- Si la forma decimal es **periódica**, haremos estos pasos:
+	- El numerador será igual al número en cuestión sin el símbolo periódico ni decimal restado al número que no está debajo del símbolo periódico.
+	- El denominador es igual a tantos 9 como números hay debajo del símbolo periódico y tantos 0 como decimales que no se repiten:
+
+$$
+23.4\overline{52} = \frac{23452-234}{90} = \frac{23218}{990}
+$$
+
+
+### Aproximaciones
+
+Para aproximar un número, distinguimos entre el redondeo y el truncamiento:
+
+#### Redondeo
+
+- Si queremos redondear a dos cifras un número como 1/3, podríamos expresarlo de la siguiente manera:
+
+$$
+\frac{1}{3} \approx 0.33
+$$
+
+- Si la cifra a redondear es menor de 4, se eliminan el resto de cifras decimales y se deja el número igual.
+
+- Si es superior a 4, se eliminan todas las cifras decimales posteriores a la cifra de redondeo y se suma una unidad a la cifra de redondeo.
+
+$$
+32.5436134 \approx 32.544
+$$
+
+- Si la cifra de redondeo es 9 se actúa de la misma manera solo que se pone un 0 al final para indicar que es una aproximación.
+
+$$
+2.749623 \approx 2.750
+$$
+
+
+### Ordenación
+
+La manera más sencilla de ordenar dos números racionales es escribir la expresión decimal, que muestra de manera inmediata cuál de los dos es más grande.
+
+Los números racionales tienen una propiedad importante: **entre dos números racionales siempre podemos encontrar otros. Para encontrar un número que esté entre otros dos números, solo hay que sumarlos y dividirlos entre 2.**
+
+$$
+\frac{3}{4} \dots ? \dots \frac{9}{5}
+$$
+
+$$
+\frac{\left( \frac{3}{4} + \frac{9}{5}\right)}{2} = \frac{51}{40}
+$$
+$$
+\frac{3}{4} < \frac{51}{40} < \frac{9}{5}
+$$
+
 ## ✍️ Ejercicios resueltos
+
 
 ---
 
