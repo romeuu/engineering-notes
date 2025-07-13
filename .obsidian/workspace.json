@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numeros/Números naturales.md",
+                "file": "numeros/Números racionales.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Números naturales"
+              "title": "Números racionales"
             }
           },
           {
@@ -183,7 +183,7 @@
   "active": "4bab236b5ae6cffd",
   "lastOpenFiles": [
     "LaTeX cheatsheet.md",
-    "numeros/Números naturales.md",
+    "numeros/Números racionales.md",
     "Templates/Tema.md",
     "numeros",
     "Nombre_del_tema.md",
