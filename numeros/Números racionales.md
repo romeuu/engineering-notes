@@ -6,8 +6,20 @@
 			- [[#Distintos denominadores#Métodos para conseguir denominador común|Métodos para conseguir denominador común]]
 				- [[#Métodos para conseguir denominador común#Multiplicación de denominadores|Multiplicación de denominadores]]
 				- [[#Métodos para conseguir denominador común#Cálculo del MCM de los denominadores|Cálculo del MCM de los denominadores]]
+	- [[#Operaciones con fracciones#Resta|Resta]]
+	- [[#Operaciones con fracciones#Multiplicación|Multiplicación]]
+	- [[#Operaciones con fracciones#División|División]]
+- [[#Forma decimal|Forma decimal]]
+	- [[#Forma decimal#Tipos de formas decimales|Tipos de formas decimales]]
+		- [[#Tipos de formas decimales#Estricta|Estricta]]
+		- [[#Tipos de formas decimales#Periódica|Periódica]]
+			- [[#Periódica#Tipos de periodos|Tipos de periodos]]
+	- [[#Forma decimal#Aproximaciones|Aproximaciones]]
+		- [[#Aproximaciones#Redondeo|Redondeo]]
+	- [[#Forma decimal#Ordenación|Ordenación]]
 - [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
 - [[#✅ Resumen final|✅ Resumen final]]
+
 
 
 ## Operaciones con fracciones
@@ -193,6 +205,38 @@ $$
 $$
 
 ## ✍️ Ejercicios resueltos
+
+1. Transforma los siguientes números decimales a fracción irreducible:
+
+$$
+0.0025 = \frac{25}{10000} = \frac{5}{2000} = \frac{1}{400}
+$$
+$$
+0.34 = \frac{34}{100} = \frac{17}{50}
+$$
+$$
+-1.37 = -\frac{137}{100}
+$$
+$$
+0,\overline{33} = \frac{33}{99} = \frac{1}{3}
+$$
+$$
+1,0\overline{33} = \frac{1033-10}{990} = \frac{1023}{990} = \frac{341}{330}
+$$
+
+2. Suma de fracciones:
+
+$$
+\frac{2}{3} + \left( -\frac{1}{8} + \frac{3}{4} \right) = \frac{2}{3} + \left( -\frac{1}{8} + \frac{6}{8} \right) = \frac{2}{3} + \frac{5}{8} = \frac{16}{24} + \frac{15}{24} = \frac{31}{24}
+$$
+
+$$
+-\frac{8}{5} + \frac{7}{15 } = - \frac{24}{15} + \frac{7}{15 } = -\frac{17}{15}
+$$
+$$
+\left( -1 * \frac{1}{3} + \frac{7}{8} \right) + \frac{2}{3} = \left( -\frac{1}{3} + \frac{7}{8} \right) + \frac{2}{3} = \left( -\frac{8}{24} + \frac{21}{24} \right) + \frac{2}{3} = \frac{13}{24} + \frac{2}{3} = \frac{13}{24} + \frac{16}{24} = \frac{29}{24}
+$$
+
 
 
 ---
