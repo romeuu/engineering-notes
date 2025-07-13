@@ -198,3 +198,29 @@ $$
 ---
 
 ## ✅ Resumen final
+
+- Las **fracciones con el mismo denominador** se suman o restan directamente sumando/restando los numeradores.
+    
+- Si los **denominadores son distintos**, hay dos formas de obtener el común denominador:
+    - **Multiplicación de denominadores** (rápido pero menos simplificado).
+    - **Cálculo del MCM** (más eficiente si hay varios términos o números grandes).
+
+- Las **multiplicaciones** de fracciones se hacen multiplicando numeradores entre sí y denominadores entre sí.
+
+- Las **divisiones** se convierten en multiplicaciones por la inversa.
+    
+- La **forma decimal** de una fracción puede ser:
+    - **Exacta** (decimales finitos).
+    - **Periódica pura o mixta** (decimales infinitos con patrón).
+        
+- Para **convertir decimales en fracciones**:
+    - En forma exacta: se eliminan la coma y se coloca un denominador con tantos ceros como decimales.
+    - En forma periódica: se usa el método de numerador y denominador basados en cifras periódicas y no periódicas.
+        
+- Para **aproximar**:
+    - Se usa el **redondeo** o el **truncamiento**, según si se quiere mantener o no cierta precisión.
+    - El redondeo depende de si el dígito siguiente es menor o mayor que 5.
+        
+- En la **ordenación** de fracciones:
+    - Convertir a decimal ayuda a comparar rápidamente.
+    - Entre dos fracciones siempre se puede encontrar otra sumándolas y dividiendo entre 2.
