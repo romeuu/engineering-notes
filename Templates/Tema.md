@@ -1,5 +1,3 @@
-# 📘 {{title}} 
-
 ## {{Nombre de sección 2}}
 ### {{Subsección o concepto clave}}
 
