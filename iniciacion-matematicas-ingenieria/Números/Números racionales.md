@@ -237,8 +237,14 @@ $$
 \left( -1 * \frac{1}{3} + \frac{7}{8} \right) + \frac{2}{3} = \left( -\frac{1}{3} + \frac{7}{8} \right) + \frac{2}{3} = \left( -\frac{8}{24} + \frac{21}{24} \right) + \frac{2}{3} = \frac{13}{24} + \frac{2}{3} = \frac{13}{24} + \frac{16}{24} = \frac{29}{24}
 $$
 
+3. Operaciones mixtas:
 
-
+$$
+\left( 2 * \frac{1}{3} - 3 * \frac{1}{2} \right) - \left[ 4 * \frac{1}{5} - \left( 2 * \frac{1}{2} + 1 * \frac{3}{5} \right)\right] = -\frac{1}{30}
+$$
+$$
+3,04 : \frac{1}{5} + \frac{2}{3} * 2,75 = \frac{511}{30}
+$$
 ---
 
 ## ✅ Resumen final
