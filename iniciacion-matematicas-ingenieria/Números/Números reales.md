@@ -34,6 +34,54 @@ o también:
 $$
 6^{-1} = \frac{1}{6}
 $$
+
+
+### Raíces
+
+Del mismo que la diferencia es la operación opuesta a la suma, y la división es la operación opuesta a la multiplicación, la radicación es la operación opuesta a la potenciación. Los tipos más importantes de radicación son:
+
+#### Raíz cuadrada
+
+Se trata de la operación opuesta a *elevar al cuadrado*. Se usa el signo √, o signo radical, con el número en el interior. Por ejemplo, como 5 al cuadrado es 25, entonces, la raíz cuadrada de 25 es igual a 5.
+
+$$
+\sqrt{ 25 } = 5
+$$
+$$
+\sqrt{ 49 } = 7
+$$
+
+#### Raíz cúbica
+
+Es la operación opuesta a *elevar al cubo*. Se usa el signo √ con un 3 como índice. Por ejemplo, como 5 al cubo es igual a 125 podemos decir que la raíz cúbica de 125 es 5.
+
+$$
+\sqrt[3]{125} = 5
+$$
+
+#### Otras raíces
+
+De manera similar a la raíz cúbica, se pueden hacer raíces de diferentes índices. Por ejemplo:
+
+La raíz de índice 4, la raíz cuarta, de 625 es 5.
+La raíz de índice 5, la raíz quinta, de 32 es 2.
+
+$$
+\sqrt[4]{625} = 5
+$$
+$$
+\sqrt[5]{32} = 2
+$$
+
+En el caso de **números negativos, se tiene que tener en cuenta que no es posible calcular la raíz del índice par.** Por ejemplo, la expresión raíz cuadrada de -4 es incorrecta porque no hay ningún número entero cuyo cuadrado sea 4; en general, no hay ningún número cuyo cuadrado sea un número negativo.
+
+$$
+\sqrt{ -4 } 
+$$
+
+
+
+
 ## ✍️ Ejercicios resueltos
 
 ---
