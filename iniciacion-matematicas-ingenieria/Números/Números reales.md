@@ -3,8 +3,13 @@
 		- [[#Raíces#Raíz cuadrada|Raíz cuadrada]]
 		- [[#Raíces#Raíz cúbica|Raíz cúbica]]
 		- [[#Raíces#Otras raíces|Otras raíces]]
+		- [[#Raíces#Propiedades potencias y raíces|Propiedades potencias y raíces]]
+			- [[#Propiedades potencias y raíces#Potencia de exponente 1|Potencia de exponente 1]]
+			- [[#Propiedades potencias y raíces#Producto de potencias de la misma base|Producto de potencias de la misma base]]
+			- [[#Propiedades potencias y raíces#Cociente de potencias de la misma base|Cociente de potencias de la misma base]]
 - [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
 - [[#✅ Resumen final|✅ Resumen final]]
+
 
 ## Potencias
 
@@ -147,6 +152,47 @@ $$
 $$
 \left( \frac{8}{81} \right)^{\frac{5}{2}} * \left( \frac{8}{81} \right)^{\frac{11}{4}} = \left(\frac{8}{81} \right) ^ {\frac{21}{4}} 
 $$
+
+##### Cociente de potencias de la misma base
+
+Así mismo, para dividir potencias de la misma base, deberemos restar los exponentes y mantener la base sin modificaciones:
+
+$$
+a^p : a^q = a ^ {p-q}
+$$
+$$
+7^{6} : 7^{4} = 7^{2}
+$$
+$$
+\left( \frac{8}{81} \right)^{\frac{5}{2}} : \left( \frac{8}{81} \right)^{\frac{11}{4}} = \left(\frac{8}{81} \right) ^ {-\frac{1}{4}} 
+$$
+
+##### Potencia de exponente 0
+
+Cualquier potencia (con base diferente a 0) de exponente 0 resulta siempre igual a 1.
+
+$$
+a^{0} = 1
+$$
+$$
+9^{0} = 1
+$$
+
+##### Potencia de una potencia
+
+El resultado de elevar una potencia cualquiera a otro exponente es igual a una potencia que tiene por base la base de la potencia, y el exponente de la cual es el producto de exponentes.
+
+
+$$
+(a^{p})^{q} = a^{p*q}
+$$
+$$
+(5^{4}) ^ {3} = 5^{12}
+$$
+$$
+\left( \left( \frac{64}{729} \right)^{\frac{7}{3}} \right) ^ {\frac{3}{2}} = \left( \frac{64}{729} \right) ^ {\frac{7}{2} * \frac{3}{2}} = \left( \frac{64}{729} \right) ^ \frac{21}{6}
+$$
+
 
 
 
