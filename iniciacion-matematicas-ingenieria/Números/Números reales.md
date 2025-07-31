@@ -78,9 +78,27 @@ En el caso de **números negativos, se tiene que tener en cuenta que no es posib
 $$
 \sqrt{ -4 } 
 $$
+En el caso de los números fraccionarios, su raíz se calcula:
 
+$$
+^\sqrt{ \frac{16}{25} } = \frac{4}{5}
+$$
+Ya que: $$ \left( \frac{4}{5} \right)^{2}  = \frac{16}{25} $$
+En todo caso, la raíz de una fracción siempre se puede expresar como una fracción de raíces. Por ejemplo:
 
+$$
+\sqrt[3]{ \frac{27}{125} } = \frac{\sqrt[3]{ 27 }}{\sqrt[3]{ 125 }} = \frac{3}{5}
+$$
 
+Toda raíz se puede expresar también como una potencia con exponente un número fraccionario igual al inverso del índice. Por ejemplo:
+
+$$
+\sqrt{ 16 } = 16 ^ \frac{1}{2}
+$$
+
+$$
+\sqrt[3]{27} = 27 ^ \frac{1}{3}
+$$
 
 ## ✍️ Ejercicios resueltos
 
