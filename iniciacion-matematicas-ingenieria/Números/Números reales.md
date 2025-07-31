@@ -1,3 +1,11 @@
+- [[#Potencias|Potencias]]
+	- [[#Potencias#Raíces|Raíces]]
+		- [[#Raíces#Raíz cuadrada|Raíz cuadrada]]
+		- [[#Raíces#Raíz cúbica|Raíz cúbica]]
+		- [[#Raíces#Otras raíces|Otras raíces]]
+- [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
+- [[#✅ Resumen final|✅ Resumen final]]
+
 ## Potencias
 
 Una potencia es el conjunto de multiplicaciones con los mismos factores. Por ejemplo:
@@ -110,6 +118,36 @@ Es decir, la raíz de una potencia es igual a una potencia con el exponente que 
 $$
 \sqrt[4]{ \frac{16}{81} ^ {-3} } = \left( \frac{16}{81} \right)^{-\frac{3}{4}}
 $$
+
+#### Propiedades potencias y raíces
+
+Para simplificar los cálculos con potencias y raíces es útil usar estas propiedades:
+
+##### Potencia de exponente 1
+
+El resultado de una potencia de exponente 1 es igual a la base. Por ejemplo:
+
+$$
+a^1 = a
+$$
+
+$$
+5^{1} = 5 \: o \: (-3)^{-1} = -3
+$$
+##### Producto de potencias de la misma base
+
+Para multiplicar potencias con la misma base, basta con sumar los exponentes dejando la base sin modificaciones:
+
+$$
+a^p * a^q = a ^ {p+q}
+$$
+$$
+3^{4} * 3 ^ {2} = 3^{6}
+$$
+$$
+\left( \frac{8}{81} \right)^{\frac{5}{2}} * \left( \frac{8}{81} \right)^{\frac{11}{4}} = \left(\frac{8}{81} \right) ^ {\frac{21}{4}} 
+$$
+
 
 
 ## ✍️ Ejercicios resueltos
