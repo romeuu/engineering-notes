@@ -7,9 +7,12 @@
 			- [[#Propiedades potencias y raíces#Potencia de exponente 1|Potencia de exponente 1]]
 			- [[#Propiedades potencias y raíces#Producto de potencias de la misma base|Producto de potencias de la misma base]]
 			- [[#Propiedades potencias y raíces#Cociente de potencias de la misma base|Cociente de potencias de la misma base]]
+			- [[#Propiedades potencias y raíces#Potencia de exponente 0|Potencia de exponente 0]]
+			- [[#Propiedades potencias y raíces#Potencia de una potencia|Potencia de una potencia]]
+			- [[#Propiedades potencias y raíces#Producto de potencias con el mismo exponente|Producto de potencias con el mismo exponente]]
+			- [[#Propiedades potencias y raíces#Cociente de potencias con el mismo exponente|Cociente de potencias con el mismo exponente]]
 - [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
 - [[#✅ Resumen final|✅ Resumen final]]
-
 
 ## Potencias
 
