@@ -100,6 +100,18 @@ $$
 \sqrt[3]{27} = 27 ^ \frac{1}{3}
 $$
 
+De este modo, se puede expresar conjuntamente la raíz de una potencia. Por ejemplo: 
+
+$$
+\sqrt[3]{ 27 ^2 } = 27 ^ \frac{2}{3}
+$$
+Es decir, la raíz de una potencia es igual a una potencia con el exponente que es la fracción con numerador de la potencia y denominador del índice de la raíz. Otro ejemplo:
+
+$$
+\sqrt[4]{ \frac{16}{81} ^ {-3} } = \left( \frac{16}{81} \right)^{-\frac{3}{4}}
+$$
+
+
 ## ✍️ Ejercicios resueltos
 
 ---
