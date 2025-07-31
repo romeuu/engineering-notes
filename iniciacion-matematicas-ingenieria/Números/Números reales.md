@@ -193,8 +193,41 @@ $$
 \left( \left( \frac{64}{729} \right)^{\frac{7}{3}} \right) ^ {\frac{3}{2}} = \left( \frac{64}{729} \right) ^ {\frac{7}{2} * \frac{3}{2}} = \left( \frac{64}{729} \right) ^ \frac{21}{6}
 $$
 
+##### Producto de potencias con el mismo exponente
 
+El resultado de multiplicar varias potencias con el mismo exponente es igual a una potencia la base de la cual es el producto de bases y el exponente de la cual es el exponente común.
 
+$$
+a^{p} * b^{p} = ({a * b})^{p}
+$$
+$$
+8^{3} * 5^{3} = (8 * 5)^{3} = 40^{3}
+$$
+$$
+\left( \frac{8}{81} \right)^{\frac{5}{2}} * \left( \frac{25}{4} \right) ^ {\frac{5}{2}} = \left( \frac{200}{324} \right) ^ {\frac{5}{2}}
+$$
+
+##### Cociente de potencias con el mismo exponente
+
+El resultado de dividir dos potencias con el mismo exponente es igual a una potencia la base de la cual es el cociente de bases y el exponente de la cual es el exponente común.
+
+$$
+a^{p} : b^{p} = (a:b)^{p}
+$$
+$$
+12^{5} : 3^{5} = (12:3)^{5} = 4^{5}
+$$
+$$
+\left( \frac{8}{81} \right)^{\frac{5}{2}} : \left( \frac{25}{4} \right)^{\frac{5}{2}} = \left( \frac{32}{2025} \right)^{\frac{5}{2}}
+$$
+
+Se tiene que tener en cuenta que estas propiedades so5n correctas siempre que a, b, p y q sean números racionales correctos para la operación que se tiene que hacer. Por ejemplo, en el caso de la potencia de exponente 0, la base no puede ser 0; en el caso de los exponentes, sabemos que no pueden tener el denominador par si la base es negativa.
+
+> [!DANGER] Atención
+> No es lo mismo decir que el producto de potencias es igual a la potencia de la suma, que la suma de potencias es igual a la potencia del producto (esto último es falso). Es decir, no es cierto que:
+> $$
+> a^{p} + a^{q} = a^{p*q}
+> $$
 
 ## ✍️ Ejercicios resueltos
 
