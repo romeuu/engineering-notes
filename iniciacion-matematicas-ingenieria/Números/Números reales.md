@@ -97,13 +97,13 @@ $$
 ^\sqrt{ \frac{16}{25} } = \frac{4}{5}
 $$
 Ya que: $$ \left( \frac{4}{5} \right)^{2}  = \frac{16}{25} $$
-En todo caso, la raíz de una fracción siempre se puede expresar como una fracción de raíces. Por ejemplo:
+En todo caso, **la raíz de una fracción siempre se puede expresar como una fracción de raíces**. Por ejemplo:
 
 $$
 \sqrt[3]{ \frac{27}{125} } = \frac{\sqrt[3]{ 27 }}{\sqrt[3]{ 125 }} = \frac{3}{5}
 $$
 
-Toda raíz se puede expresar también como una potencia con exponente un número fraccionario igual al inverso del índice. Por ejemplo:
+Toda raíz se puede expresar también como una **potencia con exponente un número fraccionario igual al inverso del índice.** Por ejemplo:
 
 $$
 \sqrt{ 16 } = 16 ^ \frac{1}{2}
@@ -141,7 +141,7 @@ $$
 $$
 ##### Producto de potencias de la misma base
 
-Para multiplicar potencias con la misma base, basta con sumar los exponentes dejando la base sin modificaciones:
+Para **multiplicar potencias con la misma base**, basta con **sumar los exponentes** dejando la base sin modificaciones:
 
 $$
 a^p * a^q = a ^ {p+q}
@@ -155,7 +155,7 @@ $$
 
 ##### Cociente de potencias de la misma base
 
-Así mismo, para dividir potencias de la misma base, deberemos restar los exponentes y mantener la base sin modificaciones:
+Así mismo, para **dividir potencias de la misma base**, deberemos **restar los exponentes** y mantener la base sin modificaciones:
 
 $$
 a^p : a^q = a ^ {p-q}
@@ -180,7 +180,7 @@ $$
 
 ##### Potencia de una potencia
 
-El resultado de elevar una potencia cualquiera a otro exponente es igual a una potencia que tiene por base la base de la potencia, y el exponente de la cual es el producto de exponentes.
+El resultado de **elevar una potencia cualquiera a otro exponente** es igual a una potencia que tiene por **base la base de la potencia**, y el **exponente** de la cual **es el producto de exponentes**.
 
 
 $$
@@ -195,7 +195,7 @@ $$
 
 ##### Producto de potencias con el mismo exponente
 
-El resultado de multiplicar varias potencias con el mismo exponente es igual a una potencia la base de la cual es el producto de bases y el exponente de la cual es el exponente común.
+El resultado de **multiplicar varias potencias con el mismo exponente** es igual a una potencia la **base de la cual es el producto de bases** y el **exponente de la cual es el exponente común.**
 
 $$
 a^{p} * b^{p} = ({a * b})^{p}
@@ -209,7 +209,7 @@ $$
 
 ##### Cociente de potencias con el mismo exponente
 
-El resultado de dividir dos potencias con el mismo exponente es igual a una potencia la base de la cual es el cociente de bases y el exponente de la cual es el exponente común.
+El resultado de **dividir dos potencias con el mismo exponente** es igual a una potencia la **base de la cual es el cociente de bases** y el **exponente de la cual es el exponente común**.
 
 $$
 a^{p} : b^{p} = (a:b)^{p}
@@ -221,7 +221,7 @@ $$
 \left( \frac{8}{81} \right)^{\frac{5}{2}} : \left( \frac{25}{4} \right)^{\frac{5}{2}} = \left( \frac{32}{2025} \right)^{\frac{5}{2}}
 $$
 
-Se tiene que tener en cuenta que estas propiedades so5n correctas siempre que a, b, p y q sean números racionales correctos para la operación que se tiene que hacer. Por ejemplo, en el caso de la potencia de exponente 0, la base no puede ser 0; en el caso de los exponentes, sabemos que no pueden tener el denominador par si la base es negativa.
+Se tiene que tener en cuenta que estas propiedades son correctas siempre que a, b, p y q sean **números racionales correctos** para la operación que se tiene que hacer. Por ejemplo, en el caso de la potencia de exponente 0, la base no puede ser 0; en el caso de los exponentes, sabemos que no pueden tener el denominador par si la base es negativa.
 
 > [!DANGER] Atención
 > No es lo mismo decir que el producto de potencias es igual a la potencia de la suma, que la suma de potencias es igual a la potencia del producto (esto último es falso). Es decir, no es cierto que:
