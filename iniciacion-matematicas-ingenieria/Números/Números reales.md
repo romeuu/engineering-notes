@@ -258,3 +258,108 @@ $$
 ---
 
 ## ✅ Resumen final
+
+# Resumen: Potencias y Raíces
+
+## Potencias
+
+Una **potencia** es una multiplicación repetida de la misma base.
+
+- **Base**: número que se multiplica.  
+- **Exponente**: número de veces que se repite la base.  
+
+El signo depende de la base y de si el exponente es **par** (resultado positivo) o **impar** (resultado negativo).  
+
+También existen potencias con **fracciones** y con **exponentes negativos** (inversos).  
+
+---
+
+## Raíces
+
+La **radicación** es la operación inversa de la potenciación.
+
+- **Raíz cuadrada**: opuesta a elevar al cuadrado.  
+- **Raíz cúbica**: opuesta a elevar al cubo.  
+- **Raíces de mayor índice** siguen el mismo principio.  
+- No existen raíces de índice par de números negativos.  
+- Las raíces de fracciones se calculan aplicando la raíz a numerador y denominador.  
+- Toda raíz se puede expresar como potencia con exponente fraccionario:  
+
+$$
+\sqrt[n]{a} = a^{\tfrac{1}{n}}
+$$
+
+---
+
+## Propiedades de potencias y raíces
+
+$$
+a^1 = a
+$$
+$$
+a^0 = 1 \quad (a \neq 0)
+$$
+$$
+a^p \cdot a^q = a^{p+q}
+$$
+$$
+\dfrac{a^p}{a^q} = a^{p-q}
+$$
+$$
+(a^p)^q = a^{p \cdot q}
+$$
+$$
+a^p \cdot b^p = (a \cdot b)^p
+$$
+$$
+\dfrac{a^p}{b^p} = \left(\dfrac{a}{b}\right)^p
+$$
+
+⚠️ **Error común**: la suma de potencias **no equivale** a la potencia de la suma.  
+
+---
+
+## Racionalización
+
+Consiste en eliminar raíces del denominador multiplicando por la expresión adecuada.
+
+### Ejemplo 1: raíz simple  
+
+$$
+\dfrac{1}{\sqrt{3}} = \dfrac{\sqrt{3}}{\sqrt{3}} = \dfrac{\sqrt{3}}{3}
+$$
+
+---
+
+### Ejemplo 2: suma de raíces (conjugado)
+
+$$
+\dfrac{1}{\sqrt{3} + \sqrt{2}}
+$$
+
+Multiplicamos por el conjugado $$(\sqrt{3} - \sqrt{2}):  
+
+
+\dfrac{1}{\sqrt{3} + \sqrt{2}} \cdot \dfrac{\sqrt{3} - \sqrt{2}}{\sqrt{3} - \sqrt{2}}
+= \dfrac{\sqrt{3} - \sqrt{2}}{(\sqrt{3})^2 - (\sqrt{2})^2}
+= \dfrac{\sqrt{3} - \sqrt{2}}{3 - 2}
+= \sqrt{3} - \sqrt{2}
+$$
+
+---
+
+### Ejemplo 3: denominador con raíz cúbica  
+
+$$
+\dfrac{1}{\sqrt[3]{2}}
+$$
+
+Para eliminar la raíz cúbica necesitamos **elevar al cubo**, es decir, multiplicar por 
+$$(\sqrt[3]{2^2}):  
+
+
+\dfrac{1}{\sqrt[3]{2}} \cdot \dfrac{\sqrt[3]{2^2}}{\sqrt[3]{2^2}}
+= \dfrac{\sqrt[3]{4}}{\sqrt[3]{8}}
+= \dfrac{\sqrt[3]{4}}{2}
+
+$$
