@@ -11,8 +11,10 @@
 			- [[#Propiedades potencias y raíces#Potencia de una potencia|Potencia de una potencia]]
 			- [[#Propiedades potencias y raíces#Producto de potencias con el mismo exponente|Producto de potencias con el mismo exponente]]
 			- [[#Propiedades potencias y raíces#Cociente de potencias con el mismo exponente|Cociente de potencias con el mismo exponente]]
+		- [[#Raíces#Racionalización de raíces|Racionalización de raíces]]
 - [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
 - [[#✅ Resumen final|✅ Resumen final]]
+
 
 ## Potencias
 
