@@ -31,7 +31,7 @@ Los números reales, están ordenados de menor a mayor. Así se pueden represent
 
 Un intervalo es el conjunto de todos los números más pequeños ( o iguales) que un número dado y más grandes (o iguales) que otro. Estos dos números son los **extremos** del intervalo. Por ejemplo, los números comprendidos entre el -5 y el 6 forman un intervalo, los extremos del cual son el -5 y el 6. Este intervalo se puede representar en la recta real de este modo:
 
-![[Pasted image 20250816125852.png]]
+![[Pasted image 20250816125852.png | center]]
 
 En cada intervalo se tiene que indiciar si alguno de los extremos está incluido en el intervalo en cuestión: si un extremo pertenece al intervalo, se denomina intervalo cerrado por este extremo (y se denota con un corchete); si un extremo no pertenece al intervalo, se denomina intervalo abierto por este extremo (y se denota con un paréntesis). Es decir, si tenemos un intervalo de -5 a 6, incluyendo el -5 y el 6, sería:
 
@@ -46,13 +46,13 @@ $$
 $$
 Y se vería de manera visual así:
 
-![[Pasted image 20250816130121.png]]
+![[Pasted image 20250816130121.png | center]]
 
 A veces se tiene que representar un intervalo que tiene un extremo pero no el otro; usando el símbolo ∞ (con signo + o -), que se lee "infinito". Por ejemplo, todos los números reales hasta el 5, con este incluido, serían:
 $$(-∞, 5]$$
 Todos los números mayores que el -3, no estando incluido, serían (-3, +∞), siendo representado así por una flecha, para la izquierda o derecha, dependiendo del símbolo que tenga el infinito.
 
-![[Pasted image 20250816130412.png]]
+![[Pasted image 20250816130412.png | center]]
 
 
 ## Notación científica
@@ -92,11 +92,11 @@ Para pasar un número en notación científica a un número normal, haremos lo s
 
 - Si el exponente es negativo, tendremos que desplazar la coma de la mantisa tantas posiciones como nos indique el exponente. En este ejemplo, siendo los 0 después del decimal, 9.
 
-![[Pasted image 20250816132120.png]]
+![[Pasted image 20250816132120.png | center]]
 
 - Si el exponente es positivo, tenemos que desplazar la coma decimal de la mantisa hacia la derecha tantas posiciones como indique el exponente, añadiendo así los 0 que hagan falta.
 
-![[Pasted image 20250816132157.png]]
+![[Pasted image 20250816132157.png | center]]
 
 
 

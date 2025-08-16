@@ -1,4 +1,7 @@
 {
   "cssTheme": "Primary",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "ImageAlign"
+  ]
 }
