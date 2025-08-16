@@ -232,6 +232,25 @@ Se tiene que tener en cuenta que estas propiedades son correctas siempre que a, 
 > a^{p} + a^{q} = a^{p*q}
 > $$
 
+#### Racionalización de raíces
+
+No es usual dejar una fracción con raíces en el denominador. Por eso, es habitual eliminarlas siempre que sea posible. Este proceso se llama racionalización de la fracción. Para conseguirlo, **tendremos que multiplicar el numerador y denominador por alguna expresión que permita eliminar las raíces.**
+
+Por ejemplo, si tenemos esta expresión:
+
+$$
+\frac{1}{\sqrt{ 3 }} = \frac{1 * \sqrt{ 3 }}{ \sqrt{ 3 } * \sqrt{ 3 }} = \frac{\sqrt{ 3 }}{ (\sqrt{ 3 } ) ^ 2} = \frac{\sqrt{ 3 }}{3}
+$$
+
+En muchos casos, podremos encontrar una suma o resta de raíces en el denominador. En estos casos tenemos que multiplicar el denominador y el numerador por la operación opuesta del denominador.
+
+$$
+\frac{4}{(\sqrt{ 3 } - \sqrt{ 5 })} = \frac{4 * (\sqrt{ 3 } + \sqrt{ 5 })}{(\sqrt{ 3 } - \sqrt{ 5 }) *  (\sqrt{ 3 } + \sqrt{ 5 })} = \frac{(4 * (\sqrt{ 3} + \sqrt{ 5 }))}{3-5} = -2 * (\sqrt{ 3 } + \sqrt{ 5 })
+$$
+
+
+
+
 ## ✍️ Ejercicios resueltos
 
 ---
