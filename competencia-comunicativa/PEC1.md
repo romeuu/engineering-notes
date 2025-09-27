@@ -4,7 +4,12 @@ Referencias internas: [[Competencia Comunicativa]]
 - [[#Competencia comunicativa y producción de textos|Competencia comunicativa y producción de textos]]
 	- [[#Competencia comunicativa y producción de textos#Conceptos básicos de la lingüística textual|Conceptos básicos de la lingüística textual]]
 		- [[#Conceptos básicos de la lingüística textual#De la competencia lingüística a la competencia comunicativa|De la competencia lingüística a la competencia comunicativa]]
+		- [[#Conceptos básicos de la lingüística textual#El texto|El texto]]
+			- [[#El texto#Las propiedades del texto|Las propiedades del texto]]
+				- [[#Las propiedades del texto#Adecuación|Adecuación]]
+				- [[#Las propiedades del texto#Coherencia|Coherencia]]
 - [[#Referencias y bibliografía|Referencias y bibliografía]]
+
 
 
 En esta PEC se nos brindan dos recursos principales, uno de 2h y 30 minutos de lectura y otro de tres horas.
@@ -91,6 +96,38 @@ También hay otra diferencia entre ambos textos, el **canal**: en la conversaci�
 > • Es producto de la actividad lingüística y tiene carácter social. 
 > • Está estructurado por reglas oracionales y textuales. 
 > • Es el resultado de relacionar la expresión lingüística con su contexto, es decir, con la situación en la que se produce el acto de la comunicación
+
+##### Las propiedades del texto
+
+Las reglas que deben respetar los textos, se agrupan en lo que se denominan las **propiedades textuales**: **adecuación**, **coherencia**, **cohesión**.
+
+###### Adecuación
+
+**La adecuación** es la propiedad textual que explica cómo se relaciona el texto con su contexto. Tiene que ver con los elementos de la comunicación (emisor, receptor, tiempo, lugar y canal), ya que se relaciona con el mensaje:
+
+1) El emisor (quien emite la información).
+2) El receptor (quien recibe la información).
+3) El tiempo y el lugar en el que se emite la información.
+4) El canal a través del que se transmite el mensaje (oral, escrito, audiovisual o telemático).
+
+Como ejemplo de esta propiedad, imaginemos una niña que va viajando en un autobús y observa que el recorrido habitual cambia, y necesita preguntar que está pasando. El texto que se va a producir, aunque sea igual en canal (oral), va a cambiar dependiendo de a quién se dirija (receptor).
+
+Si por ejemplo, se dirige a su madre, lo hará de una manera más cercana, sin formalismos, ni fórmulas de agradecimiento ni cortesía. Mientras que si se dirige a una señora mayor que no conoce, si que usará este tipo de fórmulas, como por ejemplo, *perdone*, *muchas gracias* y *adiós*.
+
+En resumen, si no respetan las normas de adecuación, las personas pueden ser tildadas de ignorantes, maleducadas, o al contrario, de pedantes o de hablar como en un libro.
+
+Por lo tanto, en cuanto a la propiedad de la adecuación, necesitamos tener en cuenta lo siguiente:
+
+- Las relaciones entre el emisor y el receptor.
+- La finalidad de la comunicación, la intención comunicativa.
+- El canal.
+- El tiempo y el espacio del lugar de la comunicación.
+
+Así mismo, un texto solo será adecuado si el mensaje se adapta a su contexto.
+
+###### Coherencia
+
+
 
 
 
