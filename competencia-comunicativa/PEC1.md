@@ -127,6 +127,26 @@ Así mismo, un texto solo será adecuado si el mensaje se adapta a su contexto.
 
 ###### Coherencia
 
+Esta propiedad explica el significado global del texto: de qué habla (cuál es el tema), que información da y cómo se ha organizado la información seleccionada.
+
+La coherencia remite a varios aspectos:
+
+- El tema del texto.
+- La selección de la información.
+- La organización de la información.
+
+1) **El tema del texto**: En un texto siempre tiene que haber un tema central que constituya el hilo conductor. Si no fuese así, no existiría la unidad comunicativa. El tema corresponde a la síntesis máxima del contenido del texto.
+
+2) **La selección de la información**: Para desarrollar el tema, hay que incluir en el texto un conjunto de informaciones y excluir otras que puedan estar más o menos relacionadas pero que no son esenciales. Así mismo, para un texto ser coherente, debe contener las informaciones necesarias y no debe incluir aquellas que son irrelevantes, ya que sería confuso.
+
+3) **La organización de la información**: La información se organiza a tres niveles:
+	1) A través de **esquemas globales**, que suelen corresponder a estructuras convencionales, es decir, a esquemas comunes a un conjunto de textos, como en el caso de recetas, reseñas, fichas, telegramas, informes, etc. - o a estructuras típicas de ciertos tipos de texto, como es la introducción, el desarrollo y la conclusión. Estas estructuras actúan como un molde que guía al lector y le ayuda a identificar e interpretar los textos.
+
+	2)  A través de una ordenación en la que se relacionan las informaciones conocidas (repetición) con las nuevas (progresión), de manera que el texto avance. Por ejemplo, si tenemos una reseña de una película, en un primer nivel tendremos los datos sobre la película, y posteriormente, información sobre esta que sigue un tema común: la película.
+
+
+> [!NOTE] En resumen
+> Por tanto, un texto es coherente si todas sus informaciones se articulan de manera que formen una unidad de sentido. Es decir, si todas las ideas expuestas en el texto se organizan, se relacionan y avanzan sin contradicciones.
 
 
 
