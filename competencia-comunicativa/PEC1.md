@@ -148,6 +148,8 @@ La coherencia remite a varios aspectos:
 > [!NOTE] En resumen
 > Por tanto, un texto es coherente si todas sus informaciones se articulan de manera que formen una unidad de sentido. Es decir, si todas las ideas expuestas en el texto se organizan, se relacionan y avanzan sin contradicciones.
 
+###### Cohesión
+
 
 
 
