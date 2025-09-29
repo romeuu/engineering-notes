@@ -7,7 +7,11 @@ Referencias internas: [[Competencia Comunicativa]]
 				- [[#Las propiedades del texto#Adecuación|Adecuación]]
 				- [[#Las propiedades del texto#Coherencia|Coherencia]]
 				- [[#Las propiedades del texto#Cohesión|Cohesión]]
+		- [[#Tipos de texto: secuencias textuales y géneros|Tipos de texto: secuencias textuales y géneros]]
+			- [[#Tipos de texto: secuencias textuales y géneros#Las secuencias textuales|Las secuencias textuales]]
+			- [[#Tipos de texto: secuencias textuales y géneros#Los géneros|Los géneros]]
 - [[#Referencias y bibliografía|Referencias y bibliografía]]
+
 
 
 
@@ -69,6 +73,22 @@ Estos se pueden clasificar en:
 - **Narrativos**: Presentar hechos y acciones en un eje cronológico.
 - **Expositivos**: Informar, explicar con claridad un tema de forma ordenada y objetiva.
 - **Conversacionales**: Intercambiar información entre dos o más interlocutores.
+
+##### Las secuencias textuales
+
+Pese a la anterior clasificación, es difícil encontrar un texto en el mundo real que se adscriba íntegramente a alguno de los tipos propuestos. En la práctica, nos encontramos combinaciones de textos.
+
+Por esto J. M. Adam introduce el concepto de **secuencia**, que serían trozos de textos que tienen una finalidad común, por ejemplo, secuencias narrativas, descriptivas, etc.
+
+##### Los géneros
+
+Hablamos de géneros textuales o discursivos para designar los textos de unas mismas características, vinculados a determinadas esferas de la actividad humana. Por ejemplo, una carta, una noticia, un prospecto, una esquela.
+
+
+
+
+
+
 
 
 
