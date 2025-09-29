@@ -2,12 +2,11 @@ Asignatura: [[Competencia Comunicativa]]
 Referencias internas: [[Competencia Comunicativa]]
 
 - [[#Competencia comunicativa y producción de textos|Competencia comunicativa y producción de textos]]
-	- [[#Competencia comunicativa y producción de textos#Conceptos básicos de la lingüística textual|Conceptos básicos de la lingüística textual]]
-		- [[#Conceptos básicos de la lingüística textual#De la competencia lingüística a la competencia comunicativa|De la competencia lingüística a la competencia comunicativa]]
-		- [[#Conceptos básicos de la lingüística textual#El texto|El texto]]
+		- [[#El texto|El texto]]
 			- [[#El texto#Las propiedades del texto|Las propiedades del texto]]
 				- [[#Las propiedades del texto#Adecuación|Adecuación]]
 				- [[#Las propiedades del texto#Coherencia|Coherencia]]
+				- [[#Las propiedades del texto#Cohesión|Cohesión]]
 - [[#Referencias y bibliografía|Referencias y bibliografía]]
 
 
@@ -59,6 +58,18 @@ Las reglas que deben respetar los textos, se agrupan en lo que se denominan las 
     - _Intraoracional_: unión de oraciones dentro de una misma frase (_y, o, pero, porque_).
     - _Textual_: nexos que organizan el discurso entero (_sin embargo, en conclusión, además, por lo tanto_).
 - En resumen: la cohesión asegura que el texto se perciba como un todo, no como frases aisladas.
+
+#### Tipos de texto: secuencias textuales y géneros
+
+Todos los textos tienen un tipo, y pertenecen a un género determinado.
+
+Estos se pueden clasificar en:
+- **Argumentativos**: Opinar o convencer.
+- **Descriptivos**: Presentar como son seres, objetos, lugares o situaciones.
+- **Narrativos**: Presentar hechos y acciones en un eje cronológico.
+- **Expositivos**: Informar, explicar con claridad un tema de forma ordenada y objetiva.
+- **Conversacionales**: Intercambiar información entre dos o más interlocutores.
+
 
 
 ----
