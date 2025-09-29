@@ -12,9 +12,6 @@ Referencias internas: [[Competencia Comunicativa]]
 			- [[#Tipos de texto: secuencias textuales y géneros#Los géneros|Los géneros]]
 - [[#Referencias y bibliografía|Referencias y bibliografía]]
 
-
-
-
 En esta PEC se nos brindan dos recursos principales, uno de 2h y 30 minutos de lectura y otro de tres horas.
 
 En el primer módulo se van a estudiar aquellos conceptos básicos de la Lingüística del texto que se han considerado imprescindibles para introducir los estudiantes de Tecnología en la redacción de textos.
@@ -82,7 +79,17 @@ Por esto J. M. Adam introduce el concepto de **secuencia**, que serían trozos d
 
 ##### Los géneros
 
-Hablamos de géneros textuales o discursivos para designar los textos de unas mismas características, vinculados a determinadas esferas de la actividad humana. Por ejemplo, una carta, una noticia, un prospecto, una esquela.
+Hablamos de **géneros** textuales o discursivos para designar los **textos de unas mismas características**, vinculados a determinadas esferas de la actividad humana. Por ejemplo, una carta, una noticia, un prospecto, una esquela.
+
+##### Tipos de secuencias textuales
+
+###### Secuencia conversacional
+
+Es un **intercambio de información entre varios interlocutores** que se encuentran presentes en el momento en el que se produce el acto comunicativo.
+
+Se organiza a partir de las intervenciones de los interlocutores.
+
+Se siguen **ciertas características** textuales como: muchos tipos de **modalidades oracionales** (interrogación, exclamación...), **gestualidad** y **cambios de entonación**.
 
 
 
