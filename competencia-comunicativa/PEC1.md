@@ -91,6 +91,21 @@ Se organiza a partir de las intervenciones de los interlocutores.
 
 Se siguen **ciertas características** textuales como: muchos tipos de **modalidades oracionales** (interrogación, exclamación...), **gestualidad** y **cambios de entonación**.
 
+Se manifiesta en diálogos, entrevistas, conversaciones telefónicas, conversaciones cotidianas, etc.
+
+###### Secuencia narrativa
+
+Relata **acciones y hechos**, reales o imaginarios, situados en un marco temporal y casual.
+
+Tiene tres partes principales: **planteamiento, nudo y desenlace**. Aunque si queremos ampliar serían cinco: **introducción, complicación, evolución, resolución y situación final**.
+
+Existe un narrador, que puede estar en primera o tercera persona, introduciendo otras voces, a través de diálogos.
+
+Esta secuencia se presenta en novelas, películas, cuentos, noticias, reportajes, etc.
+
+###### Secuencia descriptiva
+
+
 
 
 
