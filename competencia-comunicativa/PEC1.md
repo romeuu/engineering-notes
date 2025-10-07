@@ -62,48 +62,31 @@ Las reglas que deben respetar los textos, se agrupan en lo que se denominan las 
 
 #### Tipos de texto: secuencias textuales y géneros
 
-Todos los textos tienen un tipo, y pertenecen a un género determinado.
+- **Argumentativo** → convencer o defender una opinión.
+- **Descriptivo** → mostrar cómo son personas, objetos, lugares o situaciones.
+- **Narrativo** → relatar hechos o acciones en un eje temporal.
+- **Expositivo** → explicar información clara y ordenada.
+- **Conversacional** → intercambio de información entre interlocutores.
 
-Estos se pueden clasificar en:
-- **Argumentativos**: Opinar o convencer.
-- **Descriptivos**: Presentar como son seres, objetos, lugares o situaciones.
-- **Narrativos**: Presentar hechos y acciones en un eje cronológico.
-- **Expositivos**: Informar, explicar con claridad un tema de forma ordenada y objetiva.
-- **Conversacionales**: Intercambiar información entre dos o más interlocutores.
+##### Secuencias textuales (J.M. Adam)
 
-##### Las secuencias textuales
-
-Pese a la anterior clasificación, es difícil encontrar un texto en el mundo real que se adscriba íntegramente a alguno de los tipos propuestos. En la práctica, nos encontramos combinaciones de textos.
-
-Por esto J. M. Adam introduce el concepto de **secuencia**, que serían trozos de textos que tienen una finalidad común, por ejemplo, secuencias narrativas, descriptivas, etc.
-
-##### Los géneros
-
-Hablamos de **géneros** textuales o discursivos para designar los **textos de unas mismas características**, vinculados a determinadas esferas de la actividad humana. Por ejemplo, una carta, una noticia, un prospecto, una esquela.
+- Fragmentos de texto con una misma finalidad comunicativa.
+- Los textos reales suelen combinar varias secuencias.
 
 ##### Tipos de secuencias textuales
 
-###### Secuencia conversacional
+- **Conversacional** → diálogo, entrevista, conversación; incluye entonación, gestos y distintos tipos de oración (interrogativa, exclamativa…).
+- **Narrativa** → relata hechos/acciones; estructura básica: planteamiento, nudo y desenlace; puede incluir diálogo y narrador en 1ª o 3ª persona.
+- **Descriptiva** → presenta características de personas, objetos, lugares o situaciones.
+- **Expositiva** → explica información de forma clara, ordenada y objetiva.
+- **Argumentativa** → defiende una idea o postura mediante razones y evidencia.
 
-Es un **intercambio de información entre varios interlocutores** que se encuentran presentes en el momento en el que se produce el acto comunicativo.
+##### Los géneros
 
-Se organiza a partir de las intervenciones de los interlocutores.
+- **Conjunto de textos con características similares** y vinculados a actividades humanas concretas.
+- Ejemplos: carta, noticia, prospecto, esquela, informe, reseña…
 
-Se siguen **ciertas características** textuales como: muchos tipos de **modalidades oracionales** (interrogación, exclamación...), **gestualidad** y **cambios de entonación**.
 
-Se manifiesta en diálogos, entrevistas, conversaciones telefónicas, conversaciones cotidianas, etc.
-
-###### Secuencia narrativa
-
-Relata **acciones y hechos**, reales o imaginarios, situados en un marco temporal y casual.
-
-Tiene tres partes principales: **planteamiento, nudo y desenlace**. Aunque si queremos ampliar serían cinco: **introducción, complicación, evolución, resolución y situación final**.
-
-Existe un narrador, que puede estar en primera o tercera persona, introduciendo otras voces, a través de diálogos.
-
-Esta secuencia se presenta en novelas, películas, cuentos, noticias, reportajes, etc.
-
-###### Secuencia descriptiva
 
 
 
