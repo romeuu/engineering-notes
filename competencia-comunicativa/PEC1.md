@@ -8,9 +8,11 @@ Referencias internas: [[Competencia Comunicativa]]
 				- [[#Las propiedades del texto#Coherencia|Coherencia]]
 				- [[#Las propiedades del texto#Cohesión|Cohesión]]
 		- [[#Tipos de texto: secuencias textuales y géneros|Tipos de texto: secuencias textuales y géneros]]
-			- [[#Tipos de texto: secuencias textuales y géneros#Las secuencias textuales|Las secuencias textuales]]
+			- [[#Tipos de texto: secuencias textuales y géneros#Secuencias textuales (J.M. Adam)|Secuencias textuales (J.M. Adam)]]
+			- [[#Tipos de texto: secuencias textuales y géneros#Tipos de secuencias textuales|Tipos de secuencias textuales]]
 			- [[#Tipos de texto: secuencias textuales y géneros#Los géneros|Los géneros]]
 - [[#Referencias y bibliografía|Referencias y bibliografía]]
+
 
 En esta PEC se nos brindan dos recursos principales, uno de 2h y 30 minutos de lectura y otro de tres horas.
 
@@ -85,17 +87,6 @@ Las reglas que deben respetar los textos, se agrupan en lo que se denominan las 
 
 - **Conjunto de textos con características similares** y vinculados a actividades humanas concretas.
 - Ejemplos: carta, noticia, prospecto, esquela, informe, reseña…
-
-
-
-
-
-
-
-
-
-
-
 
 ----
 
