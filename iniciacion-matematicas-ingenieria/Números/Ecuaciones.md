@@ -3,6 +3,10 @@
 	- [[#Expresiones Algebraicas#Elementos|Elementos]]
 	- [[#Expresiones Algebraicas#Manipulación|Manipulación]]
 	- [[#Expresiones Algebraicas#Propiedades|Propiedades]]
+- [[#Ecuaciones|Ecuaciones]]
+	- [[#Ecuaciones#Soluciones|Soluciones]]
+	- [[#Ecuaciones#Equivalentes|Equivalentes]]
+	- [[#Ecuaciones#Proceso de resolución|Proceso de resolución]]
 
 
 ## Expresiones Algebraicas
@@ -57,4 +61,77 @@ $$
  2a - 5b - 4 = 3x + y
 $$
 En este caso no podemos afirmar que sean iguales, o que es imposible que sean iguales. Este tipo de igualdades, son las que llamamos **ecuaciones**.
+
+## Ecuaciones
+
+En vez de utilizar el término variable en una ecuación, se utiliza **incógnitas**.
+
+Cada uno de los sumandos de cada uno de los miembros, se denomina término.
+
+El grado de una ecuación se puede determinar por el término con más incógnitas, por ejemplo:
+
+$$
+3xy - 2a + 5x²y² = x + 11a²x
+$$
+En este caso la ecuación es de grado 4.
+
+### Soluciones
+
+Cuando sustituimos nuestras incógnitas por un valor determinado, y se cumple la igualdad, podemos decir que hemos encontrado una **solución** a la ecuación.
+
+Por ejemplo, teniendo en cuenta esta ecuación:
+
+$$
+2x + 4y -5 = 4x - 5y
+$$
+Podemos afirmar que x=2 e y=1 son una solución ya que en ambos casos llegamos al resultado de 3=3. También tenemos la solución de x=11 e y=3, ya que llegamos al resultado de 29=29.
+
+### Equivalentes
+
+Podemos tener ecuaciones equivalentes cuando ambas tienen las mismas soluciones, por ejemplo:
+
+$$
+7x - 3 = 6x - 4
+$$
+$$
+14x - 6 = 12x -8
+$$
+Estas dos ecuaciones serían equivalentes, ya que la única solución sería -1.
+
+Para encontrar ecuaciones equivalentes, podremos sumar, restar, multiplicar o dividir por el mismo en ambos miembros.
+
+### Proceso de resolución
+
+Antes de proceder a la resolución de una ecuación, deberemos de simplificarla al máximo.
+
+Por ejemplo:
+
+$$
+4x + 3 - 2x - 1 = 10 + 6x - 2 - x
+$$
+$$
+2x + 2 = 8 + 5x
+$$
+En los casos en los que la ecuación contenga números fraccionarios, deberíamos de convertir la ecuación en una equivalente que no contenga denominadores.
+
+Para esto calcularemos el MCM de los denominadores, escribiremos el mismo denominador, y posteriormente eliminamos el denominador multiplicado por este.
+
+$$
+\frac{3x}{5} - \frac{2}{3} = 4x - \frac{1}{3}
+$$
+El MCM sería 15.
+$$
+\frac{9x}{15} - \frac{10}{15} = \frac{60x}{15} - \frac{5}{15}
+$$
+$$
+\frac{9x - 10}{15} = \frac{60x - 5}{15}
+$$
+$$
+15 · \frac{9x - 10}{15} = 15 · \frac{60x - 5}{15}
+$$
+Dejándonos la ecuación como:
+
+$$
+9x - 10 = 60x - 5
+$$
 
