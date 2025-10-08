@@ -135,3 +135,4 @@ $$
 9x - 10 = 60x - 5
 $$
 
+### Ecuaciones de primer grado
