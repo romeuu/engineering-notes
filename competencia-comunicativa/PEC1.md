@@ -88,7 +88,41 @@ Las reglas que deben respetar los textos, se agrupan en lo que se denominan las 
 - **Conjunto de textos con características similares** y vinculados a actividades humanas concretas.
 - Ejemplos: carta, noticia, prospecto, esquela, informe, reseña…
 
-----
+## Técnicas de producción de textos especializados
 
+### Elementos de la enunciación
+
+Como hemos visto anteriormente, los **elementos de la enunciación son el emisor, receptor, el tiempo y espacio**.
+
+Estos elementos **anclan el texto a un contexto** e interpretación determinada.
+
+### Marcas lingüísticas: los deícticos
+
+Hay ciertas marcas lingüísticas que solo se pueden interpretar a partir del contexto del texto.
+
+Estas marcas, llamadas **deícticos**, se dividen en tres tipos:
+
+a) **Personales**: 
+
+- **Pronombres personales de primera y segunda persona** (yo, tú, nosotros, vosotros, me, os, etc).
+
+- **Morfemas verbales de primera y segunda persona** (consider**o**, consult**áis**).
+
+- **Posesivos de primera y segunda persona** (mi, tu, nuestros, vuestros).
+
+b) **Espaciales**:
+
+- **Demostrativos** (este/ese/aquel)
+- **Pronombres neutros** (eso/esto/aquello)
+- **Algunos adverbios de lugar** (aquí/ahí/allí/allá)
+
+c) **Temporales**:
+
+- Adverbios temporales como *ayer, mañana, antes de ayer, pasado mañana, etc*.
+- Morfemas verbales de presente de indicativo (*vengo, me voy*), que indican simultaneidad con el tiempo de la enunciación. Los morfemas que indican pasado (*vino*), y los que indican futuro (*vendré*).
+
+
+
+----
 ## Referencias y bibliografía
 
