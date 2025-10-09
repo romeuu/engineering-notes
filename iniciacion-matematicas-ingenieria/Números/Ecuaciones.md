@@ -154,3 +154,14 @@ $$
 		$$ 5x - 3 = 5x - 3$$
 	- Hay una única solución:
 		$$2x - 1 = 3x + 4 $$
+
+### Ecuaciones de segundo grado
+
+Diremos que una ecuación es de segundo grado cuando tengamos una sola incógnita que contenga términos elevados al cuadrado.
+
+$$
+3x² + 6x - 4 = 2x + 5
+$$
+$$
+2x² - 4x + 5 = 3x² - 5x + 4
+$$
