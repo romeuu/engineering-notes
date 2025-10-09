@@ -136,3 +136,21 @@ $$
 $$
 
 ### Ecuaciones de primer grado
+
+Las ecuaciones de primer grado solo tienen una incógnita, y se parecen a esto:
+
+$$
+3x - 2 = 5x + 6
+$$
+Pueden tener una solución, que todos los números existentes lo sean, o que no haya ninguna.
+
+- **No tiene solución**:
+
+$$
+5x - 7 = 5x + 12
+$$
+- **Tiene solución**:
+	- Cualquier número es la solución:
+		$$ 5x - 3 = 5x - 3$$
+	- Hay una única solución:
+		$$2x - 1 = 3x + 4 $$
