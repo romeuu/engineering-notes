@@ -150,8 +150,13 @@ Rasgos a nivel textual:
 - **Precisión léxica** -> En registros informales se usa léxico menos variado y preciso.
 - **Uso de conectores** -> El conjunto de conectores suele estar más acotado en registros informales que formales.
 
-
 ### Escrito y oral
+
+Los rasgos de la **comunicación oral** **que la diferencian de la escrita son**: a) **la espontaneidad** y la falta de planificación y b) **el conocimiento**, compartido por los interlocutores, **de la situación enunciativa y del contexto**.
+
+### Objetividad y subjetividad
+
+
 
 
 
