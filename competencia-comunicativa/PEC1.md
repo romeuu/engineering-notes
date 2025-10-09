@@ -122,6 +122,17 @@ c) **Temporales**:
 - Morfemas verbales de presente de indicativo (*vengo, me voy*), que indican simultaneidad con el tiempo de la enunciación. Los morfemas que indican pasado (*vino*), y los que indican futuro (*vendré*).
 
 
+### Lenguajes de especialidad
+
+Los textos de especialidad se caracterizan por los siguientes aspectos:
+
+- La **precisión**, directamente vinculada al vocabulario y, en concreto, al **uso de términos**, que son palabras que tienen un significado específico que conocen las personas con experiencia en la especialidad expuesta.
+
+- La **objetividad y formalidad**.
+
+- La **funcionalidad** y la **economía formal**.
+
+
 
 ----
 ## Referencias y bibliografía
