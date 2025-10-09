@@ -133,6 +133,27 @@ Los textos de especialidad se caracterizan por los siguientes aspectos:
 - La **funcionalidad** y la **economía formal**.
 
 
+### Lenguaje formal e informal
+
+Se puede dar el caso de que se mezclen ambos registros, tanto formal como informal.
+
+Existen ciertos rasgos a evitar que denotan un registro informal:
+
+Rasgos a nivel oracional:
+
+- **Estilo segmentado y condensado** -> No existen los conectores, abuso de oraciones independientes.
+- **Orden de palabras** -> Rompe el orden básico sujeto-verbo-complementos.
+- **Estructuras oracionales** -> No concuerda la primera parte de la oración con la segunda.
+
+Rasgos a nivel textual:
+
+- **Precisión léxica** -> En registros informales se usa léxico menos variado y preciso.
+- **Uso de conectores** -> El conjunto de conectores suele estar más acotado en registros informales que formales.
+
+
+### Escrito y oral
+
+
 
 ----
 ## Referencias y bibliografía
