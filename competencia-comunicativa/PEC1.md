@@ -156,7 +156,15 @@ Los rasgos de la **comunicación oral** **que la diferencian de la escrita son**
 
 ### Objetividad y subjetividad
 
+La objetividad se relaciona con el **uso de la tercera persona**. También se usan **construcciones de impersonalización** para que el emisor no se implique en el texto.
 
+Estas construcciones son:
+
+- construcciones reflejas -> *pronombre se*.
+- pasivas perifrásticas -> *ser + participio*.
+- estructuras con verbos impersonales ->  *hay que o cabe*.
+
+### Adecuación normativa
 
 
 
