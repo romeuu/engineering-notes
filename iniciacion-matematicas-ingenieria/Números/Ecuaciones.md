@@ -176,3 +176,30 @@ $$ 2x² - 10x + 12 = 0 $$
 Además, como vemos, podemos dividir los términos entre 2 para simplificar más:
 
 $$ x² - 5x + 6 = 0 $$
+#### Resolución
+
+Para resolver las ecuaciones de segundo grado se pueden dar varios casos:
+
+#####  c = 0:
+	$$ ax² + bx = 0 $$
+Dos soluciones:
+-  **0**
+- $$ -\frac{b}{a} $$
+	
+
+##### b = 0:
+
+$$ ax² + c = 0 $$
+Dos soluciones:
+- $$ x = \sqrt{ -\frac{c}{a} } $$
+- $$ - \sqrt{ -\frac{c}{a} } $$
+Siempre que -c/a sea un número positivo, ya que no hay ningún número real cuyo cuadrado sea igual a un número negativo.
+
+
+##### Caso general
+
+Se utiliza esta fórmula para la resolución en el caso de que b y c no sean 0:
+
+$$
+x = \frac{-b \pm \sqrt{ b² - 4ac }}{2a}
+$$
