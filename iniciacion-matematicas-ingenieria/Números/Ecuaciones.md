@@ -203,3 +203,55 @@ Se utiliza esta fórmula para la resolución en el caso de que b y c no sean 0:
 $$
 x = \frac{-b \pm \sqrt{ b² - 4ac }}{2a}
 $$
+#### Número de soluciones
+
+En caso de que el discriminante (b² - 4ac) sea mayor que 0, existirán dos soluciones. Si el discriminante es 0, solo hay una solución. Si es negativo, no habrá solución real.
+
+#### Ecuaciones cuadráticas
+
+Las ecuaciones cuadráticas son las que de forma normal, tienen un término independiente, un término de grado cualquiera y otro término con grado que es el doble del anterior.
+
+$$
+4x⁸ + 5x⁴ + 10 = 0
+$$
+$$
+3x^{10} + x^5 - 15 = 0
+$$
+
+Como podemos observar, en la primera ecuación el grado del primer término es 8, y el segundo 4. Y en el segundo ejemplo, el primero es 10 y el segundo 5.
+
+Estas expresiones se pueden escribir de la siguiente manera:
+
+$$
+4(x⁴)² + 5x⁴ + 10 = 0
+$$
+$$
+3(x⁵)² + x⁵ - 15 = 0
+$$
+El caso más sencillo de ecuación cuadrática sería el de la denominada **ecuación bicuadrada**, que tiene términos de grado 4, 2 y término independiente, equivalente a 0.
+
+$$
+x⁴ - 13x² + 36 = 0
+$$
+
+$$
+(x²)^2 - 13x² + 36 = 0
+$$
+
+$$
+(x²) = \frac{13 \pm \sqrt{ (-13)^2 - 4 · 1 · 36 }}{2} = \frac{13 \pm \sqrt{ 25 }}{2} = \frac{13 \pm 5}{2} = 4 / 9
+$$
+
+Si x² = 4, entonces x sería equivalente a +- 2.
+Si x² = 9, entonces x sería equivalente a +-3.
+
+El resto de ecuaciones de tipo cuadrático pueden resolverse de manera parecida. Por ejemplo:
+
+$$ 3x⁸ - 6x⁴ - 9 = 0 $$
+$$ 3(x⁴)² - 6x⁴ - 9 = 0 $$
+$$
+(x⁴) = \frac{6\pm \sqrt{ (-6)² - 4 · 3 · (-9) }}{ 2·3} = \frac{6\pm12}{6}
+$$
+Esto nos daría que:
+
+$$ (x⁴) = 3 \to x = \pm \sqrt[4]{ 3 } $$
