@@ -298,6 +298,16 @@ Dejándonos así el intervalo `[5/7, +infinito).
 
 #### Segundo grado
 
+Tenemos que tener en cuenta si el primer término es positivo o negativo, ya que esto indicará si la parábola es convexa o cóncava.
+
+
+> [!SUCCESS] Truco
+> Para recordar si es cóncava o convexa recuerda que si es positiva, es una carita feliz, y si es negativa, es una carita triste.
+> 
+![[Pasted image 20251011175923.png]]
+
+Esto lo tenemos que saber para delimitar el intervalo en el que se cumple la inecuación.
+
 $$
 2x² - 8 \geq 0
 $$
@@ -321,3 +331,21 @@ $$
 
 Si la inecuación fuese sin el signo de mayor o igual, los intervalos serían abiertos.
 
+$$
+-x² + 2x + 3 \geq 0
+$$
+$$
+x = \frac{-2 \pm \sqrt{ 2² - 4 ·  (-1) · 3}}{2 · (-1)} = \frac{2\pm \sqrt{ 16}}{2 · (-1)} = \frac{2\pm4}{-2} = -1 / 3
+$$
+Podremos afirmar entonces que la solución sería:
+
+$$ [-1, 3] $$
+
+Otro caso curioso es:
+
+$$ x² + 6 > 0 $$
+Al ser positivo, nos da una parábola convexa que nunca corta el eje de x, ya que no tiene solución.
+
+Que quiere decir esto? Pues que para cualquier valor de x se cumple la inecuación.
+
+Si se buscase que fuese menor a 0, no existiría la solución.
