@@ -255,3 +255,46 @@ $$
 Esto nos daría que:
 
 $$ (x⁴) = 3 \to x = \pm \sqrt[4]{ 3 } $$
+### Inecuaciones
+
+#### Primer grado
+
+Para resolver una inecuación de primer grado lo haremos al igual que con una ecuación sencilla:
+
+$$ 5x -3 \geq 7 $$
+$$ 5x \geq 10 $$
+$$ x \geq 2 $$
+Esto nos daría un intervalo de `[2, +infinito)`.
+
+$$ 2 - 3x < -7 $$
+$$ -3x < -9 $$
+$$ x > 3 $$
+Quedando el intervalo `(3, +infinito)`.
+
+¿Por qué pasa a ser mayor en vez de menor? Porque se han cambiado los signos al dividir -9 entre -3, por lo tanto, en **inecuaciones siempre que se cambie el signo, se cambiaría el mayor o menor también.**
+
+Ejemplo un poco más complejo:
+
+$$
+\frac {4 - 2x}{3} \leq \frac{x+1}{2}
+$$
+En este caso tendremos que multiplicar ambos lados por el MCM de 3 y 2, par así que desaparezcan las fracciones.
+
+$$
+8 - 4x \leq 3x + 3
+$$
+$$
+-4x -3x \leq 3 - 8
+$$
+
+$$
+-7x \leq -5
+$$
+$$
+x \geq \frac{5}{7}
+$$
+Dejándonos así el intervalo `[5/7, +infinito).
+
+
+#### Segundo grado
+
