@@ -298,3 +298,26 @@ Dejándonos así el intervalo `[5/7, +infinito).
 
 #### Segundo grado
 
+$$
+2x² - 8 \geq 0
+$$
+Tendremos que calcular en que lugares esta inecuación es igual a 0, por lo tanto tendremos que hacer lo siguiente:
+
+$$ 2x² - 8 = 0 $$
+$$
+2x² = 8
+$$
+$$
+x² = 4
+$$
+$$ x = \pm2 $$
+Al saber que esta ecuación es igual a 0 en +-2, podremos afirmar que la inecuación se cumple en los siguientes intervalos:
+
+Solución: 
+
+$$
+(-\infty, -2] \cup [2, \infty)
+$$
+
+Si la inecuación fuese sin el signo de mayor o igual, los intervalos serían abiertos.
+
