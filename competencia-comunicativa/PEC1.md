@@ -33,7 +33,6 @@ Así mismo, hay subcompetencias:
 - **Es la unidad comunicativa máxima.**
 - Más que frases bien construidas: debe cumplir finalidad comunicativa.
 - Puede ser oral o escrito, corto o largo.
-- Puede ser oral, o escrito.
 - Siempre está condicionado por el **contexto** (interlocutores, canal, tiempo, lugar).
 
 ##### Las propiedades del texto
@@ -162,10 +161,7 @@ Estas construcciones son:
 
 - construcciones reflejas -> *pronombre se*.
 - pasivas perifrásticas -> *ser + participio*.
-- estructuras con verbos impersonales ->  *hay que o cabe*.
-
-### Adecuación normativa
-
+- estructuras con verbos impersonales ->  *hay que* o *cabe*.
 
 
 ----

@@ -165,3 +165,14 @@ $$
 $$
 2x² - 4x + 5 = 3x² - 5x + 4
 $$
+Para simplificar una ecuación y así trabajar de manera más sencilla tendremos que hacer lo siguiente:
+
+$$ x² + 4x -4 = 3x² - 6x + 7 $$
+$$ x² + 4x -5 -3x² + 6x - 7  = 0$$
+$$ -2x² + 10x -12 = 0 $$
+Como no conviene tener el signo negativo en la x², multiplicamos todo por -1 y así cambiamos el signo de los términos.
+
+$$ 2x² - 10x + 12 = 0 $$
+Además, como vemos, podemos dividir los términos entre 2 para simplificar más:
+
+$$ x² - 5x + 6 = 0 $$
