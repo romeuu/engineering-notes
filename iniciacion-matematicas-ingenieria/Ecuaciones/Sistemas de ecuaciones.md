@@ -59,7 +59,34 @@ $$
 En este caso podemos ver como las dos expresiones se contradicen, por lo tanto no se podría llegar a una solución.
 
 
+### Métodos de resolución
 
+#### Sustitución
+
+Este método consiste en aislar las incógnitas en una de las dos ecuaciones y sustituir la expresión en la otra ecuación.
+
+$$
+\begin{cases}
+2x - 3y = 7 \\
+x + 4y = -2
+\end{cases}
+$$
+En este caso, tendríamos que elegir una ecuación de las anteriores, por ejemplo, x + 4y = -2, ya que si hay una ecuación que tenga el coeficiente de x o y igual a 1, es más sencillo de calcular.
+
+Posteriormente, aislamos las incógnitas de la ecuación:
+
+$$ x = -2 -4y $$
+Con esto podremos sustituir el valor de x en la otra ecuación.
+
+$$ 2 · (-2 -4y) - 3y = 7 $$
+Si resolvemos esta ecuación nos daría que y = -1.
+
+Si sustituimos este valor de y en la ecuación anterior, obtenemos que x = 2. Por lo tanto la solución sería:
+
+$$ (x, y) = (2, -1) $$
+
+> [!DANGER] Recuerda comprobar
+> Es importante que siempre que obtengas resultados de un sistema de ecuaciones, compruebes que los resultados resuelven correctamente estas.
 
 
 
