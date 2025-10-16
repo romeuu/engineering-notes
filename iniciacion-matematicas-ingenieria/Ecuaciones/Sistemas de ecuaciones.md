@@ -5,6 +5,10 @@ Tema: [[Ecuaciones]]
 		- [[#Soluciones#Sistema con una única solución:|Sistema con una única solución:]]
 		- [[#Soluciones#Sistemas con infinitas soluciones|Sistemas con infinitas soluciones]]
 		- [[#Soluciones#Sistemas sin soluciones|Sistemas sin soluciones]]
+	- [[#Sistemas lineales de dos ecuaciones y dos incógnitas#Métodos de resolución|Métodos de resolución]]
+		- [[#Métodos de resolución#Sustitución|Sustitución]]
+		- [[#Métodos de resolución#Igualación|Igualación]]
+		- [[#Métodos de resolución#Reducción|Reducción]]
 
 
 ## Sistemas lineales de dos ecuaciones y dos incógnitas
@@ -163,3 +167,68 @@ $$
 x + 4 · (-1) = -2
 $$
 $$ x = 2 $$
+
+## Sistemas lineales de tres ecuaciones y tres incógnitas
+
+Igual que antes, podemos definir un sistema de ecuaciones lineales con tres incógnitas como un conjunto de tres ecuaciones de primer grado con las tres mismas incógnitas en cada una de las ecuaciones.
+
+$$
+\begin{cases}
+3x -2y +z = 2 \\
+x + y - 2z = 1 \\
+4x - 2y -3z = -4
+\end{cases}
+$$
+### Métodos de resolución
+
+Para resolver este tipo de sistemas tendremos que utilizar el método de Gauss.
+
+En este necesitamos manipular las ecuaciones de manera que podamos simplificar las expresiones y posteriormente, despejar una de las incógnitas, y a partir de ahí, despejar las otras 2 que quedan pendientes.
+
+Por ejemplo, teniendo el sistema:
+
+$$
+\begin{cases}
+ x + y + z = 0 \\
+2x - 5y - 2z = -2 \\
+3x + 4y + z = 8
+\end{cases}
+$$
+Podría pasar a ser este sistema:
+
+$$
+\begin{cases}
+x + y + z = 0 \\
+-7y -4z = -2 \\
+y - 2z = 8
+\end{cases}
+$$
+Ya que haremos que la ecuación dos sea igual a la ecuación dos menos la ecuación por 2. Y por otro lado, haremos lo mismo para la ecuación 3.
+
+Posteriormente, podremos multiplicar la tercera ecuación por 7 y sumarla con la segunda ecuación para así eliminar la incógnita y.
+
+$$
+\begin{cases}
+ x + y + z = 0 \\
+-7y -4z = -2 \\
+-18z = 54
+\end{cases}
+$$
+
+Con esto ya conseguimos lo siguiente:
+
+$$ z = -\frac{54}{18} = -3 $$
+Ahora podremos ir a la segunda ecuación y reemplazar el valor de z:
+
+$$
+-7y - 4 · (-3) = -2
+$$
+$$ y = \frac{-2 -12}{-7} = 2 $$
+Por último, sustituiremos los valores de z e y en la primera ecuación para obtener el valor de x:
+
+$$
+x = -y - z 
+$$
+$$
+x = 3 - 2 = 1
+$$
