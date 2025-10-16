@@ -232,3 +232,6 @@ $$
 $$
 x = 3 - 2 = 1
 $$
+
+## Sistemas lineales de *m* ecuaciones y *n* incógnitas
+
