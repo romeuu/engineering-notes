@@ -235,3 +235,75 @@ $$
 
 ## Sistemas lineales de *m* ecuaciones y *n* incógnitas
 
+Como en el resto de los sistemas, una solución de este sistema es un n-tupla (es decir, una colección de n números) que, al sustituir x1, x2, x3, . . . , xn convenientemente en este sistema, resuelve todas las ecuaciones simultáneamente. Es evidente que alguno de los coeficientes de cada incógnita tiene que ser diferente de 0 en alguna de las ecuaciones (en caso contrario, esta incógnita sería superflua).
+
+## Sistema de inecuaciones lineales con una incógnita
+
+Un sistema de inecuaciones lineales con una única incógnita está formado por varias inecuaciones lineales y limitado por una clave que indica precisamente que se trata de un sistema, y no de inecuaciones independientes.
+
+$$
+\begin{cases}
+3x + 4 \leq 2x + 8 \\
+2x + 1 > x
+\end{cases}
+$$
+El procedimiento sería el siguiente:
+
+Resolvemos las inecuaciones de manera independiente:
+
+$$
+3x + 4 = 2x + 8 \implies x = 4
+$$
+$$
+2x - 1 = x \implies x = 1
+$$
+
+Representamos el resultado en la recta real:
+
+![[Pasted image 20251017170036.png]]
+
+Y posteriormente, escogeremos valores que estén fuera y dentro del intervalo de resolución, por ejemplo, 0, 2 y 6.
+
+Tendremos que comprobar si estos valores resuelven correctamente el sistema.
+
+La solución al sistema serán los números que están en el mismo intervalo que los números que hemos comprobado que eran solución del sistema de inecuaciones.
+
+$$
+\begin{cases}
+3 · 0 + 4 \leq 2· 0 + 8 \implies 4 \leq 8 \\
+2 · 0 + 1 > 0 \implies - 1 > 0
+\end{cases}
+$$
+Como vemos para el caso del 0 no se resuelve correctamente. 
+
+Vamos a comprobar el 2.
+
+$$
+\begin{cases}
+3 · 2 + 4 \leq 2 · 2 + 8 \implies 10 \leq 12 \\
+2· 2 - 1 > 2 \implies 3 > 2
+\end{cases}
+$$
+
+Como vemos el 2 si que cumple ambas inecuaciones.
+
+Vamos a probar con el 6.
+
+$$
+\begin{cases}
+3·6 + 4 \leq 2· 6 +8 \implies 22 \leq 20 \\
+2 · 6 - 1 > 6 \implies 11 > 6
+\end{cases}
+$$
+Como vemos no se cumple la primera inecuación.
+
+Por lo tanto podemos afirmar que la resolución del sistema sería:
+
+$$
+1 < x \leq 4
+$$
+$$
+(1, 4]
+$$
+
+## Sistema de inecuaciones de segundo grado con una incógnita
