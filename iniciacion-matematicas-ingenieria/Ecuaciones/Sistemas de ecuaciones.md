@@ -307,3 +307,39 @@ $$
 $$
 
 ## Sistema de inecuaciones de segundo grado con una incógnita
+
+Un sistema de inecuaciones de segundo grado con una única incógnita está formado por varias inecuaciones lineales o de segundo grado y limitado por una llave.
+
+$$
+\begin{cases}
+ 2x + 5 \geq 2 -x \\
+2x² -2x - 2 \leq x² - x + 4
+\end{cases}
+$$
+Para resolver este sistema, tendremos que hallar la solución a ambas inecuaciones, y ver que intervalos se manejan.
+
+Por ejemplo, para la primera inecuación la solución es -1, por lo tanto:
+
+$$
+2x + 5 \geq 2 - x \implies [-1, +\infty)
+$$
+Hacemos lo mismo para la segunda, que tiene como resultado -2 y 3:
+$$
+\begin{cases}
+2x² -2x - 2 \leq x² - x + 4 \implies [-2, 3]
+\end{cases}
+$$
+Ahora tenemos que intercalar ambos intervalos y buscar la zona común, que sería:
+
+$$
+[-1, 3]
+$$
+
+Por lo tanto, la resolución de este sistema son todos los números mayores o iguales que -1, y menores o iguales a 3, es decir, todos los números, x que cumplan:
+
+$$
+-1 \leq x \leq 3
+$$
+$$
+[-1, 3]
+$$
