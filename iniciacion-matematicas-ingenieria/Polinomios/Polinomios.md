@@ -1,6 +1,11 @@
 [[Iniciacion Matematicas Ingenieria]]
 
-## Definición
+- [[#Definición y aspectos generales|Definición y aspectos generales]]
+	- [[#Definición y aspectos generales#Clasificación de un polinomio|Clasificación de un polinomio]]
+	- [[#Definición y aspectos generales#Valor numérico de un polinomio|Valor numérico de un polinomio]]
+
+
+## Definición y aspectos generales
 
 Un polinomio es una expresión algebraica con una única letra, llamada variable. Los elementos básicos de un polinomio son los términos. cada término es producto de un coeficiente y un grado. Un polinomio con un solo término se llama monomio. Si tiene dos términos se denomina binomio.
 
@@ -23,5 +28,37 @@ $$
 p(x) = 5x³ - 4x² + 5x - 1
 $$
 
-## Características de un polinomio
+### Clasificación de un polinomio
 
+- Un polinomio con un solo término se denomina **monomio**.
+- Un polinomio con dos términos se denomina **binomio**.
+- Un polinomio con tres términos se denomina **trinomio**.
+
+### Valor numérico de un polinomio
+
+El valor numérico de un polinomio es el valor que se obtiene al sustituir la variable por un número determinado.
+
+$$
+p(1) = 5 · 1³ - 4 · 1² + 5·1 - 1 = 5
+$$
+
+## Operaciones y propiedades básicas
+
+### Operaciones básicas
+
+#### Suma y resta
+
+Sólo se pueden sumar en caso de que tengan el mismo grado, por ejemplo:
+
+$$
+3x³ + 5x³ = 8x³
+$$
+$$
+3x³ - 5x³ = -2x³
+$$
+En caso de que no tengan el mismo grado, se dejan expresados de la misma manera:
+
+$$
+2x³ - 5x²
+$$
+#### Producto
