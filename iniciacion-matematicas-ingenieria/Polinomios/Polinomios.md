@@ -44,7 +44,7 @@ $$
 
 ## Operaciones y propiedades básicas
 
-### Operaciones básicas
+### Operaciones básicas entre monomios
 
 #### Suma y resta
 
@@ -62,3 +62,16 @@ $$
 2x³ - 5x²
 $$
 #### Producto
+
+En este caso se multiplicará el coeficiente y se sumarán los exponentes, por ejemplo:
+
+$$
+4x³ · (-5x²) = -20x⁵
+$$
+#### Cociente
+
+Se hará lo inverso que la multiplicación, dividiendo los coeficientes y restando los exponentes:
+
+$$
+\frac{4x³}{2x} = 2x²
+$$
