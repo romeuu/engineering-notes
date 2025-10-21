@@ -75,3 +75,5 @@ Se hará lo inverso que la multiplicación, dividiendo los coeficientes y restan
 $$
 \frac{4x³}{2x} = 2x²
 $$
+
+### Operaciones básicas entre polinomios
