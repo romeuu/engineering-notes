@@ -1,3 +1,4 @@
+[[Iniciacion Matematicas Ingenieria]]
 
 - Una fracción en la que el numerador NO sea múltiplo del denominador, no puede ser un número natural.
 - Si una raíz no es exacta, se considera un número irracional.

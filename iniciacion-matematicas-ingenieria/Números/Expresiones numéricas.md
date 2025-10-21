@@ -1,3 +1,5 @@
+[[Iniciacion Matematicas Ingenieria]]
+
 - [[#La recta numérica|La recta numérica]]
 	- [[#La recta numérica#Intervalos|Intervalos]]
 - [[#✍️ Ejercicios resueltos|✍️ Ejercicios resueltos]]
