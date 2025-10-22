@@ -12,6 +12,10 @@
 		- [[#Operaciones básicas entre polinomios#Suma y resta|Suma y resta]]
 		- [[#Operaciones básicas entre polinomios#Producto|Producto]]
 		- [[#Operaciones básicas entre polinomios#Cociente|Cociente]]
+		- [[#Operaciones básicas entre polinomios#Fracciones algebraicas|Fracciones algebraicas]]
+			- [[#Fracciones algebraicas#Producto y cociente de fracciones algebraicas|Producto y cociente de fracciones algebraicas]]
+			- [[#Fracciones algebraicas#Suma y resta de fracciones algebraicas|Suma y resta de fracciones algebraicas]]
+	- [[#Operaciones y propiedades básicas#Regla de Ruffini|Regla de Ruffini]]
 
 
 ## Definición y aspectos generales
@@ -148,3 +152,53 @@ En caso de que el resto no fuese cero, indicaríamos al final el resultado de la
 $$
 6x⁴ - 27x³ + 15x² + 3x - 48 = (2x² - 3x + 4) · (3x² - 9x - 12) + 3x
 $$
+#### Fracciones algebraicas
+
+Podemos afirmar que dos fracciones algebraicas son equivalentes si:
+
+$$
+\frac{a(x)}{b(x)} = \frac{p(x)}{q(x)} \implies a(x) · q(x) = b(x) · p(x)
+$$
+También podemos afirmar que si dividimos una fracción algebraica por el mismo polinomio, la fracción resultante es equivalente a la inicial. Siendo este proceso denominado simplificación.
+
+![[Pasted image 20251022194923.png]]
+
+##### Producto y cociente de fracciones algebraicas
+
+Se siguen exactamente las mismas reglas que sumando y restando fracciones numéricas.
+
+$$
+\frac{3x - 2}{2x² + 3} · \frac{7x + 1}{2x + 2} = \frac{(3x - 2 ) · (7x + 1)} {(2x² + 3) · (2x + 2)} = \frac{21x² -11x - 2}{4x³ + 4x² + 6x + 6}
+$$
+$$
+\frac{3x - 2}{2x² + 3} : \frac{7x + 1}{2x + 2} = \frac{(3x - 2 ) · (2x +2)} {(2x² + 3) · (7x + 1)} = \frac{6x² +2x - 4}{14x³ + 2x² + 21x + 3}
+$$
+
+##### Suma y resta de fracciones algebraicas
+
+Se siguen las mismas reglas que para sumas y restas de fracciones numéricas.
+
+Si tienen el mismo denominador, se deja el denominador común y se suman o restan los numeradores.
+
+Si no tienen el mismo denominador, tendremos que buscar el MCM de los denominadores, y posteriormente, dividirlo entre el denominador, y multiplicar por el numerador.
+
+$$
+\frac{3x - 4}{x² + 5x + 6} + \frac{5x - 2}{x² + 3x + 2}
+$$
+$$
+x² + 5x + 6 = (x+2)·(x+3)
+$$
+$$
+x² + 3x + 2 = (x +1)·(x+2)
+$$
+$$
+MCM = (x+1)(x+2)(x+3) = x³ + 6x² + 11x + 6
+$$
+$$
+\frac{3x - 4}{x² + 5x + 6} = \frac{3x² -x - 4}{x³ + 6x² + 11x + 6}
+$$
+$$
+\frac{5x - 2}{x² + 3x + 2} = \frac{5x² + 13x -6}{x³ + 6x² + 11x + 6}
+$$
+
+### Regla de Ruffini
