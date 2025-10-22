@@ -9,6 +9,10 @@
 		- [[#Operaciones básicas entre monomios#Producto|Producto]]
 		- [[#Operaciones básicas entre monomios#Cociente|Cociente]]
 	- [[#Operaciones y propiedades básicas#Operaciones básicas entre polinomios|Operaciones básicas entre polinomios]]
+		- [[#Operaciones básicas entre polinomios#Suma y resta|Suma y resta]]
+		- [[#Operaciones básicas entre polinomios#Producto|Producto]]
+		- [[#Operaciones básicas entre polinomios#Cociente|Cociente]]
+
 
 ## Definición y aspectos generales
 
