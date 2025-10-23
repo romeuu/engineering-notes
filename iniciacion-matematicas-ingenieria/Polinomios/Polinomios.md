@@ -202,3 +202,29 @@ $$
 $$
 
 ### Regla de Ruffini
+
+La regla de Ruffini es un procedimiento que nos permite hacer de manera sencilla la división entre dos polinomios cuando el divisor es un polinomio de grado 1 tal que su coeficiente de grado 1 es también 1 y el término independiente es un número entero.
+
+Por ejemplo, si queremos hacer:
+
+$$
+\frac{(5x³ - 4x² + 5x - 1)}{x-2}
+$$
+![[Pasted image 20251023181337.png]]
+
+Tendríamos que hacer lo siguiente:
+
+1) Usamos el -2, y lo cambiamos de signo.
+2) Bajamos el primer factor.
+3) Multiplicamos el -2 por el 5, dando 10.
+4) Posteriormente, sumamos -4 y 10, dando 6.
+5) Multiplicaremos 6 por 2, y nos dará 12.
+6) Sumaremos 12 y 5, y dará 17.
+7) Posteriormente, multiplicamos por 2, y nos dará 34.
+8) Sumamos 34 y -1 y nos dará 33.
+
+Este 33 es el resto de la división, por lo tanto podremos afirmar que:
+
+$$
+\frac{(5x³ - 4x² + 5x - 1)}{x-2} = (5x² + 6x + 17) · (x-2) + 33
+$$
