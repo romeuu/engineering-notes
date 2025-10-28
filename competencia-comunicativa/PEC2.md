@@ -5,6 +5,9 @@ Referencias internas: [[Competencia Comunicativa]]
 	- [[#Coherencia textual#Jerarquización de ideas, esquemas y mecanismos gráficos|Jerarquización de ideas, esquemas y mecanismos gráficos]]
 		- [[#Jerarquización de ideas, esquemas y mecanismos gráficos#Mapa conceptual|Mapa conceptual]]
 		- [[#Jerarquización de ideas, esquemas y mecanismos gráficos#Esquema|Esquema]]
+	- [[#Coherencia textual#Selección y presentación de la información: la estructura del texto|Selección y presentación de la información: la estructura del texto]]
+	- [[#Coherencia textual#Organización de la información y simetría|Organización de la información y simetría]]
+
 
 ## Coherencia textual
 
@@ -32,7 +35,25 @@ Estos son los pasos a seguir para su elaboración:
 
 #### Esquema
 
-La otra opción para jerarquizar las ideas es el esquema. Esta es la que deja la información mejor preparada para redactar. Es muy similar a un índice, por así decirlo, ya que permitirá ver de manera visual las ideas principales, y las que estarán dentro de estas.
+La otra opción para jerarquizar las ideas es el esquema. Esta es la que deja la información mejor preparada para redactar. Es muy similar a una tabla de contenidos, por así decirlo, ya que permitirá ver de manera visual las ideas principales, y las que estarán dentro de estas.
+
+Es muy importante la numeración y la sangría para poder distinguir las ideas principales y secundarias.
+
+También deberemos hacer uso del **estilo nominal**. Es decir, en vez de utilizar oraciones, utilizar sustantivos formados a partir de verbos junto a sus complementos.
 
 ![[Pasted image 20251028194024.png]]
+
+### Selección y presentación de la información: la estructura del texto
+
+Para seleccionar la información tendremos que tener en cuenta la que más se adecue al contexto comunicativo.
+
+Si tenemos información que ayuda a profundizar, pero no son necesarias para el objetivo del texto, usaremos las notas a pie de página, que pueden contener referencias documentales o bibliográficas.
+
+Además, tendremos que tener en cuenta la estructura que tiene nuestro texto para presentar la información, ya que no es lo mismo una receta de cocina, que una noticia en un periódico. Aunque, también existen textos que no tienen una estructura estandarizada.
+
+La estructura prototípica del texto expositivo es *introducción, desarrollo y conclusión*.
+
+### Organización de la información y simetría
+
+
 
