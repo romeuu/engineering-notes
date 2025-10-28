@@ -16,6 +16,11 @@
 			- [[#Fracciones algebraicas#Producto y cociente de fracciones algebraicas|Producto y cociente de fracciones algebraicas]]
 			- [[#Fracciones algebraicas#Suma y resta de fracciones algebraicas|Suma y resta de fracciones algebraicas]]
 	- [[#Operaciones y propiedades básicas#Regla de Ruffini|Regla de Ruffini]]
+	- [[#Operaciones y propiedades básicas#Productos notables|Productos notables]]
+	- [[#Operaciones y propiedades básicas#Descomposición de polinomios|Descomposición de polinomios]]
+		- [[#Descomposición de polinomios#Teorema del residuo|Teorema del residuo]]
+		- [[#Descomposición de polinomios#Raíces y descomposición de un polinomio|Raíces y descomposición de un polinomio]]
+		- [[#Descomposición de polinomios#Factorización de un polinomio|Factorización de un polinomio]]
 
 
 ## Definición y aspectos generales
@@ -228,3 +233,135 @@ Este 33 es el resto de la división, por lo tanto podremos afirmar que:
 $$
 \frac{(5x³ - 4x² + 5x - 1)}{x-2} = (5x² + 6x + 17) · (x-2) + 33
 $$
+
+### Productos notables
+
+**Productos de dos expresiones algebraicas**.
+
+- Cuadrado de una suma:
+
+$$
+(a+b)² = a² + 2ab + b²
+$$
+- Cuadrado de una diferencia:
+
+$$
+(a-b)² = a² -2ab + b²
+$$
+- Suma por diferencia:
+$$
+(a+b) · (a-b) = a² - b²
+$$
+
+
+**Productos de tres expresiones algebraicas**:
+
+- Cubo de una suma:
+
+$$
+(a+b)³ = (a+b) · (a+b) · (a+b) = a³ + 3a²b + 3ab² + b³
+$$
+
+- Cubo de una diferencia:
+
+$$
+(a-b)³ = (a-b) · (a-b)· (a-b) = a³ - 3a²b + 3ab² - b³
+$$
+
+### Descomposición de polinomios
+
+#### Teorema del residuo
+
+El teorema del residuo nos indica que el residuo de una división es igual al valor numérico de este polinomio cuando su variable es igual al término independiente del divisor, cambiado de signo.
+
+$$
+residuo\implies\frac{p(x)}{x-a} = p(a)
+$$
+$$
+residuo \implies \frac{p(x)}{x+a} = p(-a)
+$$
+$$
+q(-1) = 3 · (-1) ^5 - 4· (-1)³ + 2 · (-1)² - (-1) - 1 = 3
+$$
+
+
+#### Raíces y descomposición de un polinomio
+
+Se dice que un número *a* es una raíz o cero de un polinomio *p(x)*, si se cumple:
+
+$$
+p(a) = 0
+$$
+Para conseguir las raíces del polinomio x^2 - 1, veremos que, obtendríamos que son -1 y 1, ya que:
+
+$$
+p(1) = 1² - 1 = 0
+$$
+$$
+p(-1) = (-1)² - 1 = 0
+$$
+Por lo tanto, si estamos buscando la descomposición de un polinomio, y sabemos que *a* es una raíz del polinomio, podemos afirmar que:
+
+$$
+p(x) = q(x) · (x-a)
+$$
+En este caso, si usamos el ejemplo anterior, veremos que si las raíces de x² - 1 son -1 y 1, el polinomio se descompone de la siguiente manera:
+
+$$
+p(x) = (x - 1) · (x - (-1)) = (x-1) · (x+1)
+$$
+
+#### Factorización de un polinomio
+
+Se entiende por factorización el proceso de expresar un polinomio como producto de polinomios irreducibles.
+
+No hay una única manera de factorizar un polinomio. De acuerdo con su naturaleza, podemos aplicar diferentes propiedades, entre las que pueden destacarse:
+
+- Quitar factores comunes:
+
+$$
+6x³ - 3x² = 3x² · (2x - 1)
+$$
+- Aplicar productos notables:
+
+$$
+x² - 16 = (x + 4) · (x - 4)
+$$
+- Resolver la ecuación asociada al polinomio. Por ejemplo, si tenemos un polinomio de segundo grado, tendremos que encontrar las soluciones de la ecuación de segundo grado asociada al polinomio. De esta manera tendremos las soluciones, y así las raíces, por lo que podremos descomponer el polinomio.
+
+$$
+p(x) = x² + 4x - 12
+$$
+$$
+x = 2
+$$
+$$
+x = -6
+$$
+$$
+p(x) = (x - 2) · (x + 6)
+$$
+- Aplicar la regla de Ruffini. Si tenemos un polinomio, sabemos que las raíces enteras son los divisores del término independiente, por ejemplo, 18. Si efectuamos las divisiones por Ruffini, obtendremos los factores.
+
+$$
+p(x) = x^3 + 2x² - 9x - 18
+$$
+$$
+18 = 3² · 2
+$$
+$$
+p(x) = (x-3)·(x-3)·(x-2)
+$$
+
+### Teorema del resto
+
+El teorema del resto nos indica también que si dividimos un polinomio por una expresión polinómica, el resto será igual a el valor del polinomio sustituyendo el término independiente de la expresión que divide.
+
+![[Pasted image 20251023194943.png]]
+
+En este ejemplo, vemos como si aplicamos Ruffini, obtenemos el mismo valor para el resto que si sustituimos el valor del término independiente del divisor en el polinomio que es dividido.
+
+![[Pasted image 20251023195204.png]]
+
+El resto de la división, es decir, el residuo final, siempre va a tener un grado menor que el divisor, es decir, si el divisor es de grado 3, este tendrá grado 2, 1, o 0.
+
