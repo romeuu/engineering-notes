@@ -56,4 +56,3 @@ La estructura prototípica del texto expositivo es *introducción, desarrollo y 
 ### Organización de la información y simetría
 
 
-
