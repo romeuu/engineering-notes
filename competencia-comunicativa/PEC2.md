@@ -55,4 +55,19 @@ La estructura prototípica del texto expositivo es *introducción, desarrollo y 
 
 ### Organización de la información y simetría
 
+Dependiendo de la longitud, complejidad o tipo de texto, la información se puede organizar en capítulos, apartados, párrafos y, finalmente, oraciones.
+
+El **párrafo** es uno de los elementos más destacados para organizar un texto, ya que nos permite estructurar el contenido del escrito y mostrar formalmente la organización. Este tiene identidad gráfica, ya que se distinguen visualmente en el texto. Podemos definir así el párrafo como una unidad de contenido relativamente autónoma y con una extensión intermedia entre la oración y la página.
+
+Por otra parte, podemos dividir una idea en varios párrafos, ya que si tenemos una idea extensa de explicar, y lo condensamos todo en un párrafo, el texto será denso y complicado de leer.
+
+Además, se pueden clasificar por la función que desempeñan: introductorio, expositivo, de conclusión, recapitulación, de ejemplos, etc.
+
+Hay que cuidar lo siguiente cuando utilicemos párrafos:
+
+1) **Extensión**: No existe un valor estándar y lo único que está claro es que no es muy aceptable utilizar párrafos de una sola oración.
+2) **Número de párrafos por página**: Entre tres y ocho párrafos.
+3) **Correspondencia entre tema y párrafo**: Cada párrafo debe corresponder a una unidad o subunidad temática identificable. Para comprobar que esto se respeta, podremos poner títulos a los párrafos en un borrador, y así evitar que se repitan ideas y garantizar el orden coherente.
+4) **Equilibrio entre párrafos**: No todos los párrafos tienen que tener la misma extensión, pero es mejor que haya una distribución atractiva, compensada, que facilite la lectura.
+
 
