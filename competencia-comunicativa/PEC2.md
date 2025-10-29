@@ -7,7 +7,7 @@ Referencias internas: [[Competencia Comunicativa]]
 		- [[#Jerarquización de ideas, esquemas y mecanismos gráficos#Esquema|Esquema]]
 	- [[#Coherencia textual#Selección y presentación de la información: la estructura del texto|Selección y presentación de la información: la estructura del texto]]
 	- [[#Coherencia textual#Organización de la información y simetría|Organización de la información y simetría]]
-
+	- [[#Coherencia textual#La introducción y la conclusión|La introducción y la conclusión]]
 
 ## Coherencia textual
 
@@ -70,4 +70,28 @@ Hay que cuidar lo siguiente cuando utilicemos párrafos:
 3) **Correspondencia entre tema y párrafo**: Cada párrafo debe corresponder a una unidad o subunidad temática identificable. Para comprobar que esto se respeta, podremos poner títulos a los párrafos en un borrador, y así evitar que se repitan ideas y garantizar el orden coherente.
 4) **Equilibrio entre párrafos**: No todos los párrafos tienen que tener la misma extensión, pero es mejor que haya una distribución atractiva, compensada, que facilite la lectura.
 
+
+### La introducción y la conclusión
+
+La **introducción** nos permite contextualizar el texto y adelantar la información que se va a exponer. Habitualmente, presenta o sitúa el tema e incluye una explicación de los antecedentes.
+
+La **conclusión** nos proporciona una síntesis, resumen o recapitulación de lo que se ha expuesto, o se puede destacar la idea principal. También podría incluir una toma de posición con respecto al tema. Según el género, se puede exponer la solución, la resolución o el resultado de lo que se ha planteado.
+
+En estas partes, se puede adoptar un tono más subjetivo que en el desarrollo, ya que en estas partes del texto el emisor está más presente.
+
+
+### Definiciones y resúmenes
+
+La **definición** nos permite precisar el significado de un concepto. Por lo tanto, es muy útil en textos de especialidad, que tienen a la objetividad y a la precisión.
+
+Esta nos permite acotar el tema y establecer el significado de algunos términos que pueden ser desconocidos para el lector.
+
+Por otro lado, **el resumen** consiste en condensar la información de un texto. Es decir, tendremos que transformar una unidad de significado en otra nueva, más corta en cuanto a extensión y sintética en cuanto a forma de expresión, reflejando así las ideas principales.
+
+Existen unos pasos de elaboración para los resúmenes:
+
+1) **Lectura de aproximación**. Entender el significado global.
+2) **Análisis de texto**. Determinar las ideas principales y secundarias. Asimismo, encontraremos los conectores, expresiones o oraciones que sirven para marcar relaciones.
+3) **Reconstrucción del plan**. Se debe confeccionar un esquema que refleje la organización jerárquica de las ideas del texto.
+4) **Redacción del resumen**. Se deben redactar de nuevo las ideas y sintetizar las que son equivalentes. Además, respetaremos el orden, la jerarquía y la conexión.
 
