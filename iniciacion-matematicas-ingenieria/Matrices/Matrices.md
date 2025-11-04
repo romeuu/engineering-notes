@@ -1,5 +1,8 @@
 [[Iniciacion Matematicas Ingenieria]]
 
+- [[#Matrices: tipo y elementos|Matrices: tipo y elementos]]
+	- [[#Matrices: tipo y elementos#Matrices importantes|Matrices importantes]]
+
 ## Matrices: tipo y elementos
 
 Una matriz es un conjunto de números organizados en *m* filas y *n* columnas cerrados entre paréntesis.
