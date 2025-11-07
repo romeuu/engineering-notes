@@ -2,6 +2,14 @@
 
 - [[#Matrices: tipo y elementos|Matrices: tipo y elementos]]
 	- [[#Matrices: tipo y elementos#Matrices importantes|Matrices importantes]]
+- [[#Operaciones básicas|Operaciones básicas]]
+	- [[#Operaciones básicas#Suma y resta|Suma y resta]]
+		- [[#Suma y resta#Propiedades de la suma de matrices|Propiedades de la suma de matrices]]
+	- [[#Operaciones básicas#Producto por un escalar|Producto por un escalar]]
+		- [[#Producto por un escalar#Propiedades del producto por un escalar|Propiedades del producto por un escalar]]
+	- [[#Operaciones básicas#Producto de matrices|Producto de matrices]]
+		- [[#Producto de matrices#Propiedades del producto de matrices|Propiedades del producto de matrices]]
+- [[#Determinantes de una matriz|Determinantes de una matriz]]
 
 ## Matrices: tipo y elementos
 
@@ -193,3 +201,39 @@ $$
 
 ## Determinantes de una matriz
 
+Para cada matriz cuadrada puede definirse un número que nos sirve para determinar si la raíz es invertible, y si es así, para calcular la inversa de la matriz.
+
+Se escribe como det(A) o |A|.
+
+### Cálculo
+
+#### Matriz 1x1
+
+Es igual al número que compone la matriz.
+
+$$
+A = (3)
+$$
+$$
+\det(A) = |3| = 3
+$$
+#### Matriz 2x2
+
+Es igual al producto de los elementos de la diagonal menos el producto de los otros dos elementos.
+
+$$
+A= \begin{pmatrix}
+1,-1 \\
+2, 4
+ \end{pmatrix} \implies \det(A) = 1 · 4 - (-1) · 2 = 6
+$$
+#### Matriz 3x3
+
+![[Pasted image 20251107230833.png]]
+
+
+#### Matrices 4x4
+
+En este caso se tiene que descomponer el determinante. Elegimos una fila o columna y desarrollamos por esta. Por ejemplo, si elegimos la primera columna:
+
+![[Pasted image 20251107232410.png]]
