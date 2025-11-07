@@ -112,3 +112,45 @@ $$
 
 ## Operaciones básicas
 
+### Suma y resta
+
+Dos matrices se pueden sumar o restar únicamente si sus dimensiones son las mismas. Para efectuar estas operaciones, tendremos que hacer lo siguiente:
+
+$$
+A + B = (a_{ij} ) + (b_{ij}) = (a_{ij} + b_{ij})
+$$
+$$
+A - B = (a_{ij}) - (b_{ij}) = (a_{ij} - b_{ij})
+$$
+#### Propiedades de la suma de matrices
+
+- **Conmutativa**: A + B = B + A
+- **Asociativa**: A + B + C = A + (B + C) = (A + B) + C
+- **Elemento neutro**: Hay una matriz, denominada elemento neutro, que sumada a cualquier otra matriz A de la misma dimensión, tiene como resultado siempre A. Esta matriz es la matriz nula.
+- **Elemento opuesto**: Toda matriz tiene un elemento opuesto, que sumado con el original resulta el elemento neutro. El elemento opuesto de A es -A.
+
+### Producto por un escalar
+
+El producto de una matriz por un escalar (número real) siempre puede calcularse y consiste en multiplicar todos los elementos de la matriz por ese número.
+
+$$
+r · A = r · (a_{ij}) = (r · a_{ij})
+$$
+#### Propiedades del producto por un escalar
+
+- **Conmutativa**: r · A = A · r
+- **Asociativa**: 
+$$
+(r_{1} · r_{2}) · A = r_{1} · (r_{2} · A)
+$$
+- **Elemento neutro**: Hay un escalar, denominado elemento neutro, que multiplicado por cualquier matriz A tiene como resultado siempre A. Este es el número 1.
+- **Distributiva**: en este caso hay dos tipos, escalar o matriz.
+
+	Escalar:
+$$
+r· ( A + B) = r · A + r · B
+$$
+	O de matriz:
+$$
+(r_{1} + r_{2}) · A = r_{1} · A + r_{2} · A
+$$
