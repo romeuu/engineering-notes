@@ -154,3 +154,42 @@ $$
 $$
 (r_{1} + r_{2}) · A = r_{1} · A + r_{2} · A
 $$
+
+> [!NOTE] División de matriz
+> Para dividir una matriz por un número, tiene que multiplicarse esa matriz por el inverso del número.
+
+
+### Producto de matrices
+
+Para multiplicar dos matrices, A y B, y obtener la matriz producto A · B, tiene que comprobarse que el número de columnas de la matriz A, coincida con el número de filas de la matriz B.
+
+El producto resultante tendrá el mismo número de filas que la matriz A y el mismo número de columnas que B.
+
+$$
+(m · n)  · (n · r) = m ·r
+$$
+Para encontrar cada elemento de la matriz producto, tendremos que multiplicar odenadamente los elementos de la fila 1 de la matriz A (en verde) por los elementos de la columna 1 de la matriz B.
+
+![[Pasted image 20251107200838.png]]
+
+#### Propiedades del producto de matrices
+
+- **Asociativa**: A · B · C = A · (B · C) = (A · B) · C
+- **El elemento neeutro del producto de matrices cuadradas** es la matriz identidad I de n. Es decir, si A es una matriz cuadrada de dimensión n x n, se cumple:
+$$
+A · I_{n} = I_{n} · A = A
+$$
+- A veces (aunque no siempre), hay matrices cuadradas que tienen **elemento inverso**. Esta matriz, cuando existe, se denomina inversa. También se puede decir que la matriz es invertible. La matriz inversa de una matriz cuadrada de dimensión n x n A se indica como A elevado a -1.
+$$
+A · A^{-1} = I_{n}
+$$
+$$
+A^{-1} · A = I_{n}
+$$
+- En general, el **producto de matrices NO es conmutativo**. Es decir, si A y B son dos matrices, cuando se pueden hacer los productos A · B y B · A, generalmente no son iguales, aunque puede darse el caso de que si.
+$$
+A · B \neq B · A
+$$
+
+## Determinantes de una matriz
+
