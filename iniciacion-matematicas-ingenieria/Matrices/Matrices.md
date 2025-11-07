@@ -53,3 +53,62 @@ $$
 0,0,0
 \end{pmatrix}
 $$
+- **Matriz identidad**: Es la matriz diagonal en la que todos los elementos de la diagonal son 1. 
+
+$$
+I_{3} = \begin{pmatrix}
+1,0,0 \\
+0,1,0 \\
+0,0,1
+\end{pmatrix}
+$$
+$$
+I_{2} = \begin{pmatrix}
+1,0 \\
+0,1
+\end{pmatrix}
+$$
+- **Matriz triangular**: Es una matriz cuadrada en la que todos los elementos situados por debajo o por encima de la diagonal son 0. Si los elementos están por debajo de la diagonal, será una matriz **triangular superior**. En cambio, si los elementos que son 0 están por encima de la diagonal, sería **triangular inferior**.
+
+$$
+A = \begin{pmatrix}
+-1,3,5 \\
+0,-2,2 \\
+0,0,8
+\end{pmatrix}
+$$
+$$
+B = \begin{pmatrix}
+-1,0,0 \\
+2,-2,0 \\
+2,-7,8
+\end{pmatrix}
+$$
+- **Matriz traspuesta**: La matriz traspuesta de una matriz A se denomina A elevado a T, y es la matriz que resulta de cambiar filas por columnas en la matriz A.
+
+$$
+A = \begin{pmatrix}
+-1,3,5 \\
+2,-2,2 \\
+2,-7,8
+\end{pmatrix}
+$$
+$$
+A^T = \begin{pmatrix}
+-1, 2,2 \\
+3, -2,7 \\
+5,2,8
+\end{pmatrix}
+$$
+- **Matriz simétrica**: Es la que coincide con su matriz traspuesta.
+
+$$
+A = \begin{pmatrix}
+-1,4,7 \\
+4,-2,-1 \\
+7,-1,8
+\end{pmatrix}
+$$
+
+## Operaciones básicas
+
