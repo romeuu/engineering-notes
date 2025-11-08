@@ -237,3 +237,32 @@ $$
 En este caso se tiene que descomponer el determinante. Elegimos una fila o columna y desarrollamos por esta. Por ejemplo, si elegimos la primera columna:
 
 ![[Pasted image 20251107232410.png]]
+
+### Propiedades de los determinantes
+
+1) El determinante de una matriz coincide con el de su traspuesta.
+
+$$
+\det(A) = \det(A^T)
+$$
+2) Si intercambiamos dos filas o dos columnas, el determinante es el mismo pero cambia de signo.
+3) Si multiplicamos toda una fila o columna por un valor *k*, el determinante queda multiplicado por *k*. En particular, si tenemos una matriz de orden *n*:
+$$
+\det(k·A) = k^n · \det(A)
+$$
+4) Si la matriz tiene **dos filas o dos columnas iguales** o proporcionales (es decir, es la misma multiplicada por un número), **el determinante es 0**.
+5) Si la matriz tiene **una fila o columna de ceros**, **el determinante es 0**.
+6) Si a una fila o columna se suma otra multiplicada por una constante, el determinante no varía.
+7) El determinante de una matriz triangular es el producto de los valores de la diagonal.
+8) El producto de determinantes es igual al determinante del producto.
+$$
+\det(A·B) = \det(A) · \det (B)
+$$
+
+
+> [!TIP] Propiedad 6
+> Muchas veces se utiliza la propiedad 6 para conseguir una fila o columna con el máximo de 0 posibles y así reducir los cálculos a la hora de calcular el determinante de la matriz desarrollando por aquella fila o columna.
+
+
+### Matriz de adjuntos
+
