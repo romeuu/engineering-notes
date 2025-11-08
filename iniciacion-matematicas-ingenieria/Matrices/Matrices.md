@@ -347,4 +347,39 @@ A · X = B
 $$
 Donde A es la matriz asociada al sistema, B es el vector de términos independientes, y X es una matriz n x 1 de iconógnitas.
 
+### Menor de orden k
+
+Dada una matriz A, si se seleccionan k filas y k columnas de la matriz, y se calcula el determinante de esas k filas y k columnas, a este determinante se le denomina **menor de orden k** de la matriz A.
+
+Es decir, si en una matriz 4x4, queremos el menor de orden 2, podremos seleccionar una submatriz 2x2 dentro de esta, y calcular su determinante, que será el menor de orden 2.
+
+![[Pasted image 20251108174859.png]]
+
+### Rango de una matriz
+
+Es el orden máximo de los menores de la matriz que no son 0. El rango de una matriz A se indica rango(A). Para hallarlo, se tiene que calcular todos los menores de orden máximo por si hay alguno que sea diferente de 0. Si no es así, se calculan todos los menores de orden una unidad menor por si hay alguno que es diferente de 0. Y así sucesivamente. La orden del primer menor diferente de 0 será el rango de la matriz.
+
+![[Pasted image 20251108175147.png]]
+
+### Matriz ampliada
+
+Si consideramos el sistema matricial A · X = B, la matriz ampliada es la matriz formada por la matriz A más la columna B. Generalmente, estas dos partes de la matriz ampliada se separan por una línea y se indica la matriz ampliada por A*.
+
+![[Pasted image 20251108175945.png]]
+
+### Discusión de sistemas
+
+- El sistema **no tiene solución** si el rango de la matriz A y el de la matriz ampliada A* son diferentes, es decir, si:
+$$
+rango(A) \neq rango(A^*)
+$$
+- El sistema **tiene solución** en los casos en los que el rango de la matriz A y el de la ampliada son iguales.
+$$
+rango(A) = rango(A*)
+$$
+En este caso, tendremos que comprobar si coincide con el número de incógnitas (n), lo que hará que se puedan dar los casos siguientes:
+
+- Si **rango(A) = n**, la solución es única, es decir, hay una única matriz X que cumple A · X = B.
+- Si **rango(A) < n**, la solución no es única, de hecho, en estas condiciones, el sistema tiene infinitas soluciones.
+
 
