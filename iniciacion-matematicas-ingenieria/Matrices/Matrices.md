@@ -266,3 +266,85 @@ $$
 
 ### Matriz de adjuntos
 
+Relacionada con el concepto de menores complementarios, podemos definir el **adjunto de un elemento de una matriz**, que también se utiliza para calcular la matriz inversa (en caso de que exista).
+
+El adjunto de un elemento a de la matriz A se indica de la siguiente manera:
+$$
+A_{ij} = (-1)^{i+j} · \alpha_{ij}
+$$
+Por lo tanto, si i+j es un número par:
+$$
+A_{ij} = \alpha_{ij}
+$$
+Y si es impar:
+$$
+A_{ij} = -\alpha_{ij}
+$$
+Esta matriz de adjuntos se representa como:
+
+$$
+A'
+$$
+
+Para obtener la matriz de adjuntos de una matriz 3x3, por ejemplo, tendremos que eliminar filas y columnas dependiendo del elemento que busquemos obtener, y posteriormente, multiplicar el determinante de esta por lo que hemos visto anteriormente.
+
+
+## Matriz inversa
+
+**Una matriz cuadrada n x n puede invertirse siempre que su determinante no sea 0**.
+
+Para encontrar la inversa de una matriz A tendremos que calcular primero su matriz de adjuntos. Una vez encontrada la matriz de adjuntos A, es muy sencillo encontrar la matriz inversa de A a partir de la siguiente fórmula:
+
+$$
+A^{-1} = \frac{1}{\det(A)} · (A')^T
+$$
+Alternativamente, se puede calcular primero la transpuesta de la matriz y después la matriz de adjuntos:
+
+$$
+A^{-1} = \frac{1}{\det(A)} · (A^T)'
+$$
+
+### Método de Gauss-Jordan
+
+![[Pasted image 20251108170135.png]]
+
+## Resolución de sistemas
+
+Si tenemos un sistema de ecuaciones lineales con m ecuaciones y n incógnitas como el siguiente:
+
+$$
+\begin{cases}
+a_{11} · x_{1} + a_{12} · x_{2} \dots =b_{1} \\
+a_{21} · x_{1} + a_{22} · x_{2}\dots = b_{2} \\
+a_{31} · x_{1} + a_{32} · x_{2}\dots = b_{3}
+\end{cases}
+$$
+
+Se podría representar como una ecuación matricial de la siguiente manera:
+
+$$
+\begin{pmatrix}
+a_{11}, a_{12} \dots \\
+a_{21}, a_{22} \dots \\
+a_{31}, a_{32} \dots
+\end{pmatrix} · \begin{pmatrix}
+x_{1} \\
+x_{2} \\
+x_{3} \\\dots \\
+x_{{n}}
+\end{pmatrix} = \begin{pmatrix}
+b_{1} \\
+b_{2} \\
+b_{3} \\
+\dots \\
+b_{m}
+\end{pmatrix}
+$$
+Si nos fijamos, vemos que se sigue el tipo:
+
+$$
+A · X = B
+$$
+Donde A es la matriz asociada al sistema, B es el vector de términos independientes, y X es una matriz n x 1 de iconógnitas.
+
+
