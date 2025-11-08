@@ -367,7 +367,7 @@ Si consideramos el sistema matricial A · X = B, la matriz ampliada es la matriz
 
 ![[Pasted image 20251108175945.png]]
 
-### Discusión de sistemas
+#### Discusión de sistemas
 
 - El sistema **no tiene solución** si el rango de la matriz A y el de la matriz ampliada A* son diferentes, es decir, si:
 $$
@@ -375,11 +375,78 @@ rango(A) \neq rango(A^*)
 $$
 - El sistema **tiene solución** en los casos en los que el rango de la matriz A y el de la ampliada son iguales.
 $$
-rango(A) = rango(A*)
+rango(A) = rango(A^*)
 $$
 En este caso, tendremos que comprobar si coincide con el número de incógnitas (n), lo que hará que se puedan dar los casos siguientes:
 
 - Si **rango(A) = n**, la solución es única, es decir, hay una única matriz X que cumple A · X = B.
 - Si **rango(A) < n**, la solución no es única, de hecho, en estas condiciones, el sistema tiene infinitas soluciones.
 
+### Método de la inversa
 
+Este método solo se puede realizar en el caso de que los rangos sean iguales (A y A*), y que este sea igual al número de incógnitas, es decir, que tenga solución única.
+
+$$
+X = A^{-1} · B
+$$
+Siendo X la matriz de incógnitas, la inversa y B siendo la parte de los términos independientes.
+
+Una vez se calcule la inversa, solo habrá que multiplicar esa matriz por B, y nos dará las soluciones al sistema.
+
+![[Pasted image 20251108191839.png]]
+
+Si por contra, el rango de A y A* es menor al número de incógnitas, sabríamos que el sistema tiene soluciones infinitas, pero aún así se podría resolver con este método:
+
+- **Confirmas** que el sistema tiene infinitas soluciones (ej. $rango(A) = rango(A^*) = 2$, pero hay 4 incógnitas).
+
+- **Escoges** un "menor de orden 2" que no sea cero. Esto te dice cuáles son tus 2 variables principales (en el ejemplo, $x$ e $y$).
+
+- **Mueves** las otras variables (las $n-r$ sobrantes, en el ejemplo $z$ y $w$) al otro lado del signo igual, tratándolas como si fueran números.
+
+- Ahora tienes un **nuevo sistema** que es cuadrado (2x2 en el ejemplo) y **SÍ tiene inversa**.
+
+- Aplicas el método de la inversa a ese **pequeño sistema 2x2**.
+
+![[Pasted image 20251108194121.png]]
+
+### Método de Gauss
+
+Gauss busca transformar el sistema en otro que sea equivalente y triangular. Es decir, que tenga forma de escalón por debajo de la diagonal.
+
+#### 1. Para Resolver Sistemas de Ecuaciones (Gauss)
+
+- **Objetivo:** Convertir la matriz ampliada $(A|B)$ en un **sistema triangular**.
+    
+- **¿Por qué?** Un sistema triangular es muy fácil de resolver usando la **"sustitución hacia atrás"**.
+    
+- **Proceso:**
+    
+    1. Se escribe la **matriz ampliada** del sistema $(A|B)$.
+        
+    2. Se usan **transformaciones de fila** (sumar, restar, multiplicar filas) para crear ceros por debajo de la diagonal principal.
+        
+    3. Se reescribe el sistema triangular y se resuelve desde la última ecuación hacia la primera.
+        
+- **Es Universal:** Este método te dice qué tipo de sistema es:
+    
+    - **Solución Única:** Queda una "escalera" perfecta (como en el ejemplo de la pág. 25).
+        
+    - **Infinitas Soluciones:** Aparece al menos una fila de ceros (Ej: `0 0 0 | 0`).
+        
+    - **Sin Solución:** Aparece una fila con una contradicción (Ej: `0 0 0 | 5`).
+
+![[Pasted image 20251108200302.png]]
+
+### Método de Cramer
+
+Para aplicar este método solo se puede aplicar para sistemas compatibles determinados.
+
+Por lo tanto, tendremos que comprobar como siempre que el determinante de A sea distinto de 0.
+
+Una vez que confirmemos que el determinante es distinto de 0, podremos proseguir con el segundo paso, en el que buscaremos el valor de cada incógnita.
+
+Lo que tendremos que hacer es sustituir la columna de la matriz B de los términos independientes, en por ejemplo, la primera fila, la segunda, la tercera, etc, y calcular el determinante de la matriz resultante, dándonos así el valor de cada incógnita.
+
+![[Pasted image 20251108201509.png]]
+
+También destacar, que si es un sistema compatible indeterminado, podríamos utilizar el método pero añadiendo en el término independiente las incógnitas que sean necesarias para que la matriz sea cuadrada.
