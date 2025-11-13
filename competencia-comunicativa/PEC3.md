@@ -3,6 +3,8 @@ Referencias internas: [[Competencia Comunicativa]]
 
 - [[#Léxico especializado|Léxico especializado]]
 	- [[#Léxico especializado#Terminología|Terminología]]
+	- [[#Léxico especializado#Extranjerismos|Extranjerismos]]
+
 
 ## Léxico especializado
 
@@ -27,6 +29,15 @@ Las **abreviaturas** son reducciones gráficas de un término y van con punto al
 Los **símbolos** son abreviaciones que se utilizan para representar magnitudes, cantidades, unidades de medida, etc. Son comunes en todas las lenguas. Son tanto en minúscula:*m* (metro), *kg* (kilogramo), *s* (segundo), como en mayúscula: *W* (watio), *CV* (caballo de vapor).
 
 Las **siglas** corresponden a letras iniciales o conjuntos de letras y sílabas que provienen de un término compuesto. Se escriben en mayúscula como: *ROM*, *RAM*, o en minúscula, cuando son adaptadas como palabras, *láser*, *radar*. Estas no admiten el plural, por lo tanto hay que utilizar el artículo correspondiente.
+
+En el campo de la informática se pueden observar 
+- **Préstamos**: *web*, *e-mail*, *carrier*, *password*...
+- **Siglas**: A menudo coexisten la forma de la sigla inglesa y el término que se desarrolla en español, traducido literalmente. Por ejemplo, *número de identificación personal* (PIN = personal identification number).
+- **Calcos**: *dominio (domain)*, *alias (alias)*, *acceso (access)*, *realidad virtual (virtual reality)*.
+- **Formas generadas a partir de prefijos o sufijos**: *extranet*, *infranet*, *intranet*.
+- **Compuestos sintagmáticos formados con nombres y adjetivos**: *comercio electrónico*, *negocio electrónico*, *traductor digital*, *cine digital*.
+
+### Extranjerismos
 
 
 
