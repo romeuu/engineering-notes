@@ -1,5 +1,20 @@
 [[Iniciacion Matematicas Ingenieria]], [[Calculo]]
 
+- [[#Correspondencia entre conjuntos|Correspondencia entre conjuntos]]
+- [[#Aplicaciones y funciones|Aplicaciones y funciones]]
+	- [[#Aplicaciones y funciones#Tipos de aplicaciones/funciones|Tipos de aplicaciones/funciones]]
+		- [[#Tipos de aplicaciones/funciones#Inyectiva|Inyectiva]]
+		- [[#Tipos de aplicaciones/funciones#Sobreyectiva|Sobreyectiva]]
+		- [[#Tipos de aplicaciones/funciones#Biyectiva|Biyectiva]]
+	- [[#Aplicaciones y funciones#Dominio y rango/imagen de una función|Dominio y rango/imagen de una función]]
+		- [[#Dominio y rango/imagen de una función#Ejercicio resuelto|Ejercicio resuelto]]
+	- [[#Aplicaciones y funciones#Representación de funciones|Representación de funciones]]
+		- [[#Representación de funciones#Tabla de valores|Tabla de valores]]
+		- [[#Representación de funciones#Expresión algebraica|Expresión algebraica]]
+		- [[#Representación de funciones#Parejas ordenadas|Parejas ordenadas]]
+		- [[#Representación de funciones#Gráfica|Gráfica]]
+
+
 ## Correspondencia entre conjuntos
 
 La correspondencia entre dos conjuntos A y B, siendo el conjunto de partida A; y el conjunto de llegada B; se denomina *R*. 
@@ -48,3 +63,66 @@ Generalmente, las funciones biyectivas son funciones sin curvas, que recorran de
 Se dan casos como las funciones cúbicas, que también serían biyectivas, aunque tienen curvas.
 
 ![[Pasted image 20251121190451.png]]
+
+### Dominio y rango/imagen de una función
+
+El dominio sería el equivalente al conjunto de partida (*A*), mientras que el rango o imagen serían los valores del conjunto de llegada (*B*) que tienen valor (o flecha asociada).
+
+Podemos interpretar el dominio como los valores que se utilizarán para obtener un valor que nos devuelva la función (imagen).
+
+![[Pasted image 20251121195345.png]]
+
+Para calcular el rango de una función, nos fijaremos en el eje X, y para calcular el rango o imagen de una función, nos fijaremos en el eje Y.
+
+#### Ejercicio resuelto
+
+Para calcular el dominio de una función como: $$ b(x) = \sqrt{ x+1 }$$
+Tendremos que buscar para que valores deja de funcionar esta función, por ejemplo, en este caso, tendremos lo siguiente:
+
+$$
+x+1 \geq 0
+$$
+
+$$
+x \geq -1
+$$
+Por lo tanto, sabremos que esta función tendrá el siguiente dominio:
+
+$$
+[-1, +\infty)
+$$
+
+### Representación de funciones
+
+Existen varios métodos para representar una función:
+
+#### Tabla de valores
+
+La tabla de valores es la tabla en la que representaremos la relación de un valor concreto de x para nuestra función f(x).
+
+![[Pasted image 20251121202300.png]]
+
+#### Expresión algebraica
+
+Esta sería la expresión de nuestra función, por ejemplo:
+
+$$
+f(x) = x^{2}
+$$
+$$
+y = x²
+$$
+
+#### Parejas ordenadas
+
+Podemos indicar los valores de nuestra tabla de valores de la siguiente manera:
+
+$$
+f(x) = \{(-2, 4), (-1,1), (0,0), (1,1), (2, 4), (3,9)\}
+$$
+
+#### Gráfica
+
+Para hacer la gráfica de una función necesitaremos saber la tabla de valores de una función. Posteriormente, simplemente representaremos en los ejes X e Y, los valores anteriores.
+
+![[Pasted image 20251121203328.png]]
