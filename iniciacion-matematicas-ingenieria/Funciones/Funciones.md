@@ -126,3 +126,103 @@ $$
 Para hacer la gráfica de una función necesitaremos saber la tabla de valores de una función. Posteriormente, simplemente representaremos en los ejes X e Y, los valores anteriores.
 
 ![[Pasted image 20251121203328.png]]
+
+
+### Operaciones entre funciones
+
+#### Operaciones básicas
+
+##### Suma o resta de funciones:
+
+La suma o resta de funciones se designa de la siguiente manera:
+
+$$
+(f\pm g)(x) = f(x)\pm g(x)
+$$
+Es decir, que si tenemos f(x) = 3x y g(x) = 4x² - 1:
+
+$$
+(f+g)(x) = f(x) + g(x) = 3x + 4x² - 1 = 4x² + 3x - 1
+$$
+
+**Propiedades**:
+
+- **Conmutativa**: f + g es lo mismo que g + f.
+- **Asociativa**: 
+$$
+f \pm (g \pm h) = (f\pm g) \pm h
+$$
+- Existe la llamada **función cero**, que es el elemento neutro de la suma de funciones, de modo que cualquier función sumada con este elemento no varía.
+$$
+z(x) = 0
+$$
+- Para cada función existe su **función opuesta**, que sumada a la función original da 0.
+$$
+f(x) \implies -f(x)
+$$
+$$
+f(x) -f(x) = 0
+$$
+
+##### Producto de funciones
+
+El producto de dos funciones se designa de la siguiente manera:
+
+$$
+(f·g)(x) = f(x) · g(x)
+$$
+Si tuviésemos que f(x) = 3x y g(x) = 4x² - 1
+
+$$
+(f·g)(x) = f(x) · g(x) = 3x · (4x² - 1) = 12x³ - 3x
+$$
+
+**Propiedades**:
+
+- **Conmutativa**:
+$$
+f·g = g·f
+$$
+- **Asociativa**:
+$$
+f · (g · h) = (f·g) · h
+$$
+- Hay un elemento llamado **función unidad**, que es el neutro del producto de funciones, de modo que cualquier función multiplicada por este elemento no varía.
+
+$$
+u(x) = 1
+$$
+
+##### Cociente de funciones
+
+El cociente de funciones se calcula de la siguiente manera:
+
+$$
+\left( \frac{f}{g} \right)(x) = \frac{f(x)}{g(x)}
+$$
+Este cociente puede calcularse siempre que la variable x esté en el dominio de las funciones que se consideran, y además, la función del denominador g(x) no sea la función 0.
+
+Por ejemplo, si f(x) = x² - 1 y g(x) = x+1:
+
+$$
+\left( \frac{f}{g} \right)(x) = \frac{x²-1}{x+1} = x-1
+$$
+
+##### Potencia de funciones
+
+La potencia de funciones se calcula de la siguiente manera:
+
+$$
+(f^{g})(x) = f(x)^{g(x)}
+$$
+
+Esta potencia se podrá calcular siempre que la variable, x, esté en el dominio de ambas funciones, f y g, y que ninguna de las funciones se anulen.
+
+Si tenemos que f(x) = 4x² - 1 y g(x) = 3x:
+
+$$
+(f^{g})(x) = f(x)^{g(x)} = (4x²-1)^{3x}
+$$
+
+#### Composición de funciones y función inversa
+
