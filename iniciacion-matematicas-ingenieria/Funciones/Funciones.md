@@ -43,5 +43,8 @@ Podemos verificar que una función es sobreyectiva, es que siempre van desde aba
 
 Una función es biyectiva cuando es inyectiva y sobreyectiva a la vez. Es decir, hay una relación perfecta 1:1 entre los dos conjuntos.
 
-Visualmente, las funciones biyectivas son funciones sin curvas, que recorran desde más infinito a menos infinito en el eje y, es decir, una recta simple.
+Generalmente, las funciones biyectivas son funciones sin curvas, que recorran desde más infinito a menos infinito en el eje y, es decir, una recta simple.
 
+Se dan casos como las funciones cúbicas, que también serían biyectivas, aunque tienen curvas.
+
+![[Pasted image 20251121190451.png]]
