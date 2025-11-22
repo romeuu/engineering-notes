@@ -1,6 +1,13 @@
 [[Iniciacion Matematicas Ingenieria]], [[Calculo]]
 
 - [[#Funciones lineales|Funciones lineales]]
+- [[#Funciones afines|Funciones afines]]
+	- [[#Funciones afines#Propiedades|Propiedades]]
+- [[#Funciones cuadráticas|Funciones cuadráticas]]
+	- [[#Funciones cuadráticas#Vértices|Vértices]]
+	- [[#Funciones cuadráticas#Puntos de corte|Puntos de corte]]
+	- [[#Funciones cuadráticas#Tabla de valores|Tabla de valores]]
+	- [[#Funciones cuadráticas#Modificaciones|Modificaciones]]
 
 
 ## Funciones lineales
@@ -75,3 +82,81 @@ $$
 
 ## Funciones cuadráticas
 
+Las funciones cuadráticas son expresiones polinómicas de segundo grado.
+
+$$
+f(x) = ax² + bx + c
+$$
+La representación gráfica de estas funciones son **parábolas**. Si sabemos que el término que multiplica a la incógnita de segundo grado es **positivo**, será una **parábola cóncava**, mientras que si es **negativo**, será una **parábola convexa**.
+
+![[Pasted image 20251122124119.png]]
+
+### Vértices
+
+Para calcular los vértices de esta parábola, tendremos que hacer lo siguiente:
+
+$$
+f(x) = x² - 6x + 5
+$$
+$$
+x_{v} = -\frac{b}{2a} = \frac{6}{2} = 3
+$$
+$$
+y_{v} = f(x_{v}) = f(3) = 3² - 6·3 + 5 = 9 - 18 + 5 = -4
+$$
+Con esto obtendremos que el vértice sería:
+
+$$
+(3, -4)
+$$
+### Puntos de corte
+
+Para calcular los puntos de corte correspondiente a *x*, haremos lo siguiente:
+
+$$
+f(x) = 0 \implies x² - 6x + 5 = 0 \implies \begin{cases}
+x=5 \\
+x=1
+\end{cases}
+$$
+Esto nos daría los dos puntos de corte para el eje *X* de esta función:
+
+$$
+(5, 0) (1,0)
+$$
+Si la ecuación de segundo grado tiene solo un resultado, nos indica que solo corta a X en un punto, mientras que si no tiene resultado, no cortará el eje X.
+
+Para calcularlos para el eje *Y*, sabemos que x = 0, por lo tanto:
+
+$$
+x = 0 \implies y = 5 \implies (0,5)
+$$
+
+### Tabla de valores
+
+Sabiendo el vértice, y los puntos de corte, podremos tener una idea de como se representaría nuestra parábola, pero para que sea completamente fiable, tendremos que crear una tabla de valores, y completar el resto de puntos.
+
+### Modificaciones
+
+Si modificamos el término independiente de una función cuadrática, se desplazará verticalmente la parábola asociada, por lo tanto, si el término aumenta, la parábola sube, mientras que si se reduce, esta bajará.
+
+Si el signo del coeficiente de grado 2 es positivo, las ramas irán hacia arriba, mientras que si es negativo, irán hacia abajo.
+
+Si se cambia el valor del coeficiente del término de grado 2, en valor absoluto, también produce un cambio regular en la parábola: si disminuye, las ramas se separan, mientras que si aumenta, las ramas se acercan.
+
+
+## Funciones polinómicas
+
+ Estas funciones son funciones que tienen más de grado dos, por ejemplo, grado 3, 4, 5... Tienen ciertas características, al igual que las funciones lineales y de otros tipos, lo que nos permite tener una idea de como se representarían gráficamente:
+
+- La **rama derecha** se dirigirá hacia **arriba** cuando el **coeficiente de grado máximo es positivo**, y hacia **abajo** cuando es **negativo**.
+- La **rama izquierda** se dirige hacia abajo cuando el polinomio es de grado par y el coeficiente máximo es negativo, o bien cuando el polinomio es de grado impar y el coeficiente máximo es positivo. En caso contrario, el extremo de la izquierda se dirigirá hacia arriba.
+- La **parte central** es la parte en la que la gráfica presenta varios pliegues. Cuanto mayor es el grado del polinomio más pliegues puede presentar, ya que el número de pliegues será igual o menor al grado máximo menos 1. Por ejemplo, un polinomio de grado 3, tendrá 2 pliegues como máximo, mientras que uno de 4, tendrá 3.
+
+Por otra parte, podemos hablar de puntos importantes dentro de estas funciones, como serían:
+
+- Los **extremos**. Este término hace referencia a los máximos y mínimos de la función. Se denomina **máximo relativo** (o local) de una función el punto en que la función pasa de ser creciente a decreciente. Al contrario, se denomina **mínimo relativo** (o local) al punto en el que pasa de ser decreciente a creciente.
+- La **intersección con el eje Y**. Hay solo un punto de intersección entre la gráfica de cualquier polinomio y el eje Y. Este punto es el que tiene coordenada x = 0, y por lo tanto, se trata del punto del plano (0, f(0)).
+- La **intersección con el eje X**. Puede haber un número de intersecciones con el eje X igual al grado del polinomio como máximo. Asimismo, no siempre se llega a este número. Estos puntos serán las raíces del polinomio, ya que tendremos que igualar el polinomio a 0 y resolverlo.
+
+![[Pasted image 20251122163244.png]]
