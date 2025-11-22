@@ -295,3 +295,16 @@ $$
 
 ### Funciones a trozos
 
+De forma general, las funciones se definen como una expresión algebraica aplicada a un dominio concreto. Sin embargo, una función puede estar definida por varias expresiones algebraicas diferentes, que forman una función definida a trozos o por partes.
+
+Por ejemplo:
+
+$$
+f(x) = 
+\begin{cases}
+x+\pi \ \implies x\leq-\pi \\
+\sin(x) \implies -\pi<x\leq \pi \\
+1 \implies \pi<x\leq 2\pi
+\end{cases}
+$$
+
