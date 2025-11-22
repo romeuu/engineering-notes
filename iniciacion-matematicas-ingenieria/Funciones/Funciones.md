@@ -226,3 +226,72 @@ $$
 
 #### Composición de funciones y función inversa
 
+Dadas dos funciones, se puede definir la función compuesta por ambas:
+
+$$
+(g ○ f)(x) = g(f(x))
+$$
+
+Por ejemplo, si tenemos:
+
+$$
+f(x) = x²
+$$
+$$
+g(x) = 2x
+$$
+$$
+(g ○ f)(x) = g(f(x)) = g(x²) = 2·x²
+$$
+$$
+(f○g)(x) = f(g(x)) = (2x)^2 = 4x²
+$$
+A partir del concepto de composición, podemos definir el concepto de **inversa**. Si *f* es una función, se dice que *g* es la función inversa de f si cumple lo siguiente:
+
+- (g○f)(x) = x para todo *x* que pertenezca al dominio de *f*.
+- (f○g)(x) = x para todo *x* que perteneza al dominio de g
+
+Por lo tanto, estas condiciones implican que el dominio de la función *f* es igual a la imagen de la función *g*, es decir:
+
+$$
+Domf = \mathrm{Im}g
+$$
+Esto significa que si tenemos una función *f*:
+
+$$
+f(3) = 5
+$$
+
+$$
+(g○f)(3) = g(f(3)) = g(5) = 3
+$$
+De manera general, se dice que una función *g* es la inversa de *f* si se cumple que:
+
+$$
+f(x) = y
+$$
+$$
+g(y) = x
+$$
+
+La función inversa se representa como:
+
+$$
+f^{-1}
+$$
+### Características de una función
+
+Las funciones tienen tipos que se determinan por como utilizan la variable independiente, hablando así de familias de funciones: polinómicas, trigonométricas, exponenciales, logarítmicas...
+
+$$
+f(x) = 5x² - x - 2 \implies polinómica
+$$
+$$
+g(x) = \sin(x) \implies trigonométrica
+$$
+$$
+h(x) = 3^x \implies exponencial
+$$
+
+### Funciones a trozos
+
