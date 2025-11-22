@@ -25,6 +25,16 @@ En cambio, para el conjunto de llegada (*B*), se denomina imagen o recorrido de 
 
 Un elemento cualquiera del dominio de una correspondencia, se denomina *imagen del elemento*. Se denomina *antiimagen* de un elemento, a los elementos de los cuales parte una flecha hacia el elemento de la imagen.
 
+Para calcular la imagen se sustituye el valor de x en la función. Para calcular la antiimagen, hay que igualar la función al valor que se nos proporciona.
+
+Por ejemplo, si queremos calcular la imagen de 0, tendremos que sustituir 0 en nuestro polinomio.
+
+Si queremos calcular la antiimagen de 8, haríamos algo así:
+
+$$
+7x + 7 = 8 \implies 7x = 1 \implies x = \frac{1}{7}
+$$
+
 ## Aplicaciones y funciones
 
 **Una aplicación** es una correspondencia que cumple que todos los elementos de su dominio tienen un único elemento en su imagen. Es decir, ningún elemento del conjunto de partida tiene más de una flecha.
