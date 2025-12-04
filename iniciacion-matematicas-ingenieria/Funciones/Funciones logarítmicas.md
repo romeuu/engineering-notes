@@ -1,5 +1,8 @@
 [[Iniciacion Matematicas Ingenieria]], [[Calculo]]
 
+- [[#Logaritmos|Logaritmos]]
+	- [[#Logaritmos#Propiedades|Propiedades]]
+
 ## Logaritmos
 
 ### Propiedades
@@ -30,3 +33,10 @@ $$
 \log_{b}(x) = \frac{\log_{a}(x)}{\log_{a}(b)}
 $$
 
+## Función logarítmica
+
+La función logarítmica de base *a*, con a > 0 y a distinto de 1, es la función inversa de la función exponencial de base a. Es decir:
+
+$$
+y = \log_{a}(x) \implies x = a^{y}
+$$
