@@ -2,6 +2,9 @@
 
 - [[#Logaritmos|Logaritmos]]
 	- [[#Logaritmos#Propiedades|Propiedades]]
+- [[#Función logarítmica|Función logarítmica]]
+	- [[#Función logarítmica#Propiedades|Propiedades]]
+
 
 ## Logaritmos
 
@@ -40,3 +43,35 @@ La función logarítmica de base *a*, con a > 0 y a distinto de 1, es la funció
 $$
 y = \log_{a}(x) \implies x = a^{y}
 $$
+Si la base de nuestro logaritmo es el número irracional *e*, se habla de **logaritmo neperiano** y se escribe ln. Es decir:
+$$
+\ln = \log_{e}
+$$
+$$
+\log_{e} 10 = \ln{10}
+$$
+
+Por otra parte, si la base es 10, se habla simplemente de logaritmo, sin especificar la base, y se suele escribir directamente *log*.
+
+
+### Propiedades
+
+- El **dominio** de cualquier función logarítmica de base *a* es igual a todos los números reales positivos, es decir, (0,+∞).
+- La **imagen** de cualquier función logarítmica de base *a* es igual a todos los números reales, es decir, (−∞,+∞).
+- La gráfica de cualquier función logarítmica siempre pasa por el punto (1, 0).
+
+En caso de que la base de a sea mayor que 1:
+
+La función crece al aumentar la variable del logaritmo, es decir:
+$$
+\log_{a}(x_{1}) < \log_{a}(x_{2})
+$$
+Haciendo que crezca la función, siendo mayor cuanto menor es la base. Cuanto más cerca de 0 está la variable *x*, menor es el valor de la imagen *y*. Por eso se dice que la función  log(x) tiende a −∞ cuando la x tiende a 0.
+
+
+En caso de que la base de a sea menor que 1, la función decrecerá al aumentar la variable. Este decrecimiento será mayor cuanto mayor sea la base. Además, cuanto más cerca de 0 esté la variable *x*, mayor será el valor de la imagen y. Por eso se dice que log(x) tiende a +∞ cuando la x tiende a 0.
+
+![[Pasted image 20251205230716.png]]
+
+## Ecuaciones logarítmicas
+
