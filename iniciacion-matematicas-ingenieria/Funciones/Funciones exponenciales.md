@@ -138,3 +138,13 @@ x+y=8
 \end{cases}
 $$
 Esto nos daría estas soluciones: $(x,y) = (6,2)$.
+
+## Resumen
+
+- **$e^x$**: En $x=1$, la altura es $\approx 2,7$.
+- **$e^{x+a}$**: Se mueve a la **izquierda** $a$ unidades.
+- **$e^x + a$**: Sube la **asíntota** a $y=a$.
+
+- Si ves sumas ($2^x + 2^{x+1}$): **Factor común**.
+- Si ves el doble de exponente ($3^{2x}$ y $3^x$): **Cambio de variable $z=3^x$** (Ecuación de 2º grado).
+- **OJO:** Si te sale $3^x = 4$, **SÍ tiene solución** ($x = \log_3 4$). Solo es imposible si es igual a un negativo o cero.

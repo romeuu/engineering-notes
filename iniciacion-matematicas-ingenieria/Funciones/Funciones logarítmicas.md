@@ -137,3 +137,10 @@ $$
 $$
 (x,y) = (25,40)
 $$
+## Resumen
+
+- $\log(\text{algo})$: Ese "algo" debe ser $>0$.
+- $\log(x^2)$: El dominio es todo $\mathbb{R}$ menos el 0 (porque el negativo al cuadrado se hace positivo).
+
+ - Si tienes logaritmo a ambos lados ($\log A = \log B$), tacha los logs ($A=B$).
+- Comprueba **SIEMPRE** las soluciones finales. Si alguna hace negativo un logaritmo original, **se tacha**.
