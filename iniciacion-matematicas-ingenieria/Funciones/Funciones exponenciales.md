@@ -117,3 +117,24 @@ $$
 5^x = 25 \implies x = 2
  $$
  
+Del mismo modo, también podemos tener sistemas de ecuaciones exponenciales, en los que habría que resolver las ecuaciones de la misma manera que vimos anteriormente.
+
+$$
+\begin{cases}
+5^x = 5^{y} · 625 \\
+2^x · 2^{y} = 256
+\end{cases}
+$$
+$$
+5^x = 5^{y} · 5⁴ \implies 5^{x-y} = 5⁴
+$$
+$$
+2^x · 2^{y} = 2⁸ \implies 2^{x+y} = 2⁸
+$$
+$$
+\begin{cases}
+x-y = 4 \\
+x+y=8
+\end{cases}
+$$
+Esto nos daría estas soluciones: $(x,y) = (6,2)$.
