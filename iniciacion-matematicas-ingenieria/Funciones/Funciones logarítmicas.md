@@ -75,3 +75,65 @@ En caso de que la base de a sea menor que 1, la función decrecerá al aumentar 
 
 ## Ecuaciones logarítmicas
 
+No hay una forma estándar de resolver este tipo de ecuaciones, por lo tanto, deberemos utilizar las propiedades logarítmicas y agrupar términos hasta que nos quede una ecuación linear o cuadrática.
+
+$$
+2\log(x) - \log(x-16) = 2
+$$
+$$
+2\log(x) = \log(x²)
+$$
+$$
+\log(x²) - \log(x-16) = 2
+$$
+$$
+\log(x²) - \log(x-16) \implies \log\left( \frac{x²}{x-16} \right)
+$$
+$$
+\log\left( \frac{x²}{x-16} \right) = 2
+$$
+$$
+\log\left( \frac{x²}{x-16} \right) = \log(100)
+$$
+$$
+\frac{x²}{x-16} = 100
+$$
+$$
+x² = 100x - 1600
+$$
+$$
+x² - 100x + 1600 = 0
+$$
+$$
+x=20
+$$
+$$
+x=80
+$$
+Al terminar y encontrar las soluciones, deberemos comprobar que ambos valores se ajustan a nuestra ecuación logarítmica.
+
+También podemos encontrarnos sistemas de ecuaciones logarítmicas:
+
+$$
+\begin{cases}
+x+y = 65 \\
+\log(x) + \log(y) = 3
+\end{cases}
+$$
+Como la primera ecuación es lineal, convertiremos la ecuación logarítmica en lineal de la siguiente manera:
+
+$$
+\log(a·b) = \log(a) + \log(b) \implies \log(x·y) = \log(1000)
+$$
+$$
+\begin{cases}
+x+y=65 \\
+x·y = 1000
+\end{cases}
+$$
+$$
+(x,y) = (40,25)
+$$
+$$
+(x,y) = (25,40)
+$$
