@@ -228,3 +228,4 @@ $$
 Siendo $a,b$ números reales y $y=ax+b$ es la ecuación de la asíntota.
 
 ![[Pasted image 20251213202921.png]]
+![[Pasted image 20251213203426.png]]
