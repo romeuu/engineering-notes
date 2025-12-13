@@ -155,3 +155,76 @@ $$
 $$
 ![[Pasted image 20251213003023.png]]
 
+
+## Continuidad
+
+Para que una función $f(x)$ sea continua en un punto $x = c$ deben cumplirse tres condiciones:
+
+1. $f(c)$ existe.
+2. $\lim_{ x \to c }f(x)$ existe.
+3. $\lim_{ x \to c }f(x) = f(c)$
+
+
+### Discontinuidad de una función
+
+#### Discontinuidad evitable
+
+Este tipo de discontinuidad se da cuando la función no está definida en el punto $x_0$, pero los límites laterales sí que existen y coinciden. Es decir:
+
+$$
+\lim_{ x \to x_{o}⁺ }f(x) = \lim_{ x \to x_{o}⁻ }f(x)  
+$$
+
+![[Pasted image 20251213202227.png]]
+
+#### Discontinuidad de salto
+
+Es el caso cuando los dos límites laterales de la función existen pero no toman el mismo valor, independientemente de si la función está definida en aquel punto o no. Es decir:
+
+$$
+\lim_{ x \to x_{o}⁺ }f(x) \neq \lim_{ x \to x_{o}⁻ }f(x)  
+$$
+![[Pasted image 20251213202243.png]]
+
+#### Discontinuidad asintótica
+
+Esta discontinuidad es una versión extrema del caso anterior, en que al emnos uno de los límites laterales es infinito. Es decir:
+
+$$
+\lim_{ x \to x_{o}⁺ }f(x) = \pm\infty  
+$$
+$$
+\lim_{ x \to x_{o}⁻ }f(x) = \pm \infty  
+$$
+![[Pasted image 20251213202255.png]]
+
+### Asíntotas
+
+#### Asíntotas verticales
+
+Se dan en un punto $k$ del eje $X$ cuando al menos uno de los límites laterales en este punto tiende a $\pm \infty$, es decir, cuando en la función tiene una discontinuidad asintótica en $k$. En este caso, la recta de ecuación $x=k$ es la asíntota vertical.
+
+![[Pasted image 20251213202852.png]]
+
+#### Asíntotas horizontales
+
+Se dan cuando existe el límite en alguno de los infinitos. Si $\lim_{ x \to \infty }f(x) = k$, la recta de ecuación $y=k$ es la asíntota horizontal (ídem con el límite con $-\infty$). Una función puede tener hasta dos asíntotas horizontales si los dos límites a $\pm \infty$ existen y toman valores diferentes.
+
+![[Pasted image 20251213202904.png]]
+
+#### Asíntotas oblicuas
+
+Si, y solo si, se cumple:
+
+$$
+\lim_{ x \to \pm\infty }f(x) = \infty 
+$$
+$$
+\lim_{ x \to \pm\infty } \frac{f(x)}{x} = a
+$$
+$$
+\lim_{ x \to \pm\infty }[f(x) - ax] = b 
+$$
+Siendo $a,b$ números reales y $y=ax+b$ es la ecuación de la asíntota.
+
+![[Pasted image 20251213202921.png]]
