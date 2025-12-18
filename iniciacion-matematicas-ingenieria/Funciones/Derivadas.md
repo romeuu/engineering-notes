@@ -75,7 +75,7 @@ $$
 #### Derivada de cociente
 
 $$
-h'(x) = \left( \frac{f(x)}{g(x)} \right)' = \frac{f'(x) · g(x) + f(x) · g'(x)}{g²(x)}
+h'(x) = \left( \frac{f(x)}{g(x)} \right)' = \frac{f'(x) · g(x) - f(x) · g'(x)}{g²(x)}
 $$
 ![[Pasted image 20251218193544.png]]
 
