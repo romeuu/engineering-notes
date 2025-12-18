@@ -143,3 +143,6 @@ Así mismo, podemos afirmar que una función es **convexa** en aquellos puntos e
 
 ![[Pasted image 20251218212832.png]]
 
+Para calcular los puntos de inflexión de nuestra función, igualaremos la segunda derivada a 0, y resolveremos la ecuación.
+
+En definitiva, para encontrar los intervalos de concavidad y convexidad de una función, hay que encontrar en primer lugar los valores $x$ de su dominio donde la segunda derivada de la función se anula (es decir, resolver $f ′′(x) = 0$) y los valores ̃$x$ en donde esta segunda derivada no existe, y estudiar posteriormente el signo de la segunda derivada en ellos. En particular, si la segunda derivada cambia de signo en un entorno de $x$, el punto $(x, f(x))$ es un punto de inflexión de la función $f(x)$.
