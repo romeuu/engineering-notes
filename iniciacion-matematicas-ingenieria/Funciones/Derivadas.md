@@ -134,3 +134,12 @@ También se puede estudiar si un punto es máximo o mínimo revisando el crecimi
 
 ![[Pasted image 20251218210850.png]]
 
+
+### Concavidad y convexidad de una función
+
+Podemos afirmar que una función es **cóncava** en aquellos puntos en que su derivada segunda es negativa.
+
+Así mismo, podemos afirmar que una función es **convexa** en aquellos puntos en que su derivada segunda es positiva.
+
+![[Pasted image 20251218212832.png]]
+
