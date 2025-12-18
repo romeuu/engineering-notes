@@ -229,3 +229,15 @@ Siendo $a,b$ números reales y $y=ax+b$ es la ecuación de la asíntota.
 
 ![[Pasted image 20251213202921.png]]
 ![[Pasted image 20251213203426.png]]
+
+## Repaso ejercicios
+
+Si tienes que buscar asíntotas de una función polinómica que sea una división:
+
+- Si el denominador no se anula nunca, no hay asíntotas verticales.
+- Si el denominador tiene mayor grado que el numerador, el límite de f(x) es 0, por lo tanto, existe una asíntota horizontal en y=0.
+
+Asíntotas:
+
+- Exponenciales ($e^{x-2}$): Las asíntotas horizontales solo cambian si sumas números **fuera** de la $x$ (ej: $e^x + 2$). Si restas dentro del exponente ($x-2$), solo mueves la gráfica a los lados, la altura (asíntota horizontal $y=0$) no cambia.
+- **Logaritmos ($\log(x-2)$):** Aquí es al revés. La asíntota vertical se mueve si tocas la $x$. Como el logaritmo explota en 0, $\log(x-2)$ explotará en $x=2$. Por eso la asíntota vertical se mueve.
