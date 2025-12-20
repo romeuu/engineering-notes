@@ -146,3 +146,63 @@ Así mismo, podemos afirmar que una función es **convexa** en aquellos puntos e
 Para calcular los puntos de inflexión de nuestra función, igualaremos la segunda derivada a 0, y resolveremos la ecuación.
 
 En definitiva, para encontrar los intervalos de concavidad y convexidad de una función, hay que encontrar en primer lugar los valores $x$ de su dominio donde la segunda derivada de la función se anula (es decir, resolver $f ′′(x) = 0$) y los valores ̃$x$ en donde esta segunda derivada no existe, y estudiar posteriormente el signo de la segunda derivada en ellos. En particular, si la segunda derivada cambia de signo en un entorno de $x$, el punto $(x, f(x))$ es un punto de inflexión de la función $f(x)$.
+
+
+## Problemas de optimización
+
+## Preguntas comunes práctica
+
+Cuando veas una letra (a, b, k...) sumando o restando sin $x$, es un número disfrazado.
+
+- **Si SUMA o RESTA sola:** Su derivada es **0** (desaparece).
+    - Ejemplo: $f(x) = \ln(x) + a \rightarrow f'(x) = \frac{1}{x}$ (La $a$ muere).
+
+- **Si MULTIPLICA:** Se queda quieta esperando.
+    - Ejemplo: $f(x) = k \cdot x^2 \rightarrow f'(x) = k \cdot 2x$.
+
+2. Leer Gráficas de Derivadas $f'(x)$ (Preguntas 4 y 5)
+
+¡Cuidado! Si el eje Y dice $f'(x)$, **NO estás viendo la forma de la función**, estás viendo su "velocidad".
+
+- **Altura de la gráfica ($Y$) = Pendiente de la original ($m$).**
+    
+    - Si la gráfica está **por encima** del eje X ($+$) $\rightarrow$ La función original **SUBE** $\nearrow$.
+        
+    - Si la gráfica está **por debajo** del eje X ($-$) $\rightarrow$ La función original **BAJA** $\searrow$.
+        
+    - Si la gráfica **corta** al eje X ($0$) $\rightarrow$ La función original tiene un **MÁXIMO o MÍNIMO** (cima o valle).
+        
+
+> **Truco:** No mires si la línea de la derivada sube o baja, mira si es **positiva o negativa**.
+
+3. Rectas Tangentes Paralelas (Pregunta 8)
+
+La palabra "Paralela" en cálculo significa **"Igualar Derivada"**.
+
+- Si te dicen: _"Busca $x$ para que la tangente sea paralela a $y = mx + n$ "_.
+    
+- **Fórmula:**
+    
+    $$f'(x) = m$$
+    
+    (Igualas tu derivada al número que acompaña a la $x$ en la recta).
+    
+
+4. El "Pico" del Valor Absoluto
+
+Las funciones con valor absoluto $| \dots |$ tienen un punto débil: el vértice (la esquina de la V).
+
+- **Regla:** Donde lo de dentro del valor absoluto vale **0**, hay un pico.
+    
+- **Consecuencia:** En los picos **NO existe la derivada** (es imposible apoyar una tangente estable).
+    
+    - Ejemplo: $|2x - 6|$ no es derivable en $x=3$.
+        
+
+5. Intersección de Pendientes
+
+Si te preguntan "¿Dónde tienen estas dos funciones la misma pendiente?".
+
+- Procedimiento: Deriva las dos por separado e IGUALAS los resultados.
+    
+    $$f'(x) = g'(x)$$
