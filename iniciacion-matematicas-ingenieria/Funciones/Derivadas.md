@@ -11,6 +11,12 @@
 		- [[#Reglas de cálculo#Derivada de cociente|Derivada de cociente]]
 		- [[#Reglas de cálculo#Derivada de composición|Derivada de composición]]
 		- [[#Reglas de cálculo#Derivada de una potencia|Derivada de una potencia]]
+- [[#Aplicaciones de la derivada|Aplicaciones de la derivada]]
+	- [[#Aplicaciones de la derivada#Crecimiento y decrecimiento de una función|Crecimiento y decrecimiento de una función]]
+	- [[#Aplicaciones de la derivada#Máximos y mínimos de una función|Máximos y mínimos de una función]]
+	- [[#Aplicaciones de la derivada#Concavidad y convexidad de una función|Concavidad y convexidad de una función]]
+- [[#Problemas de optimización|Problemas de optimización]]
+- [[#Preguntas comunes práctica|Preguntas comunes práctica]]
 
 
 ## Derivada de una función
@@ -206,3 +212,11 @@ Si te preguntan "¿Dónde tienen estas dos funciones la misma pendiente?".
 - Procedimiento: Deriva las dos por separado e IGUALAS los resultados.
     
     $$f'(x) = g'(x)$$
+
+Si se pide calcular la pendiente de la **recta normal**, tendríamos que invertir la pendiente de la **tangente** y cambiarle el signo, ya que la recta normal es la recta perpendicular a la tangente en el punto dado.
+
+- Pendiente Tangente ($m_t$) = $f'(a)$
+- Pendiente Normal ($m_n$) = $\frac{-1}{f'(a)}$
+
+Si tienes gráfica de $f'(x)$ .
+![[Pasted image 20251222215127.png]]
