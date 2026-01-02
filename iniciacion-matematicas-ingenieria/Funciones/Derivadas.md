@@ -128,7 +128,7 @@ Tanto en el caso del máximo como en el del mínimo, la recta tangente en ellos 
 
 Ahora bien, ¿cómo se puede saber cuando un extremo es un máximo o un mínimo sin tener que estudiar la gráfica de la función?
 
-Sí. Sólo hay que derivar la función otra vez. Para calcular la segunda derivada de la función, $f ′′$, se utilizan las reglas de derivación habituales. Una vez calculada la segunda derivada de la función, hay que estudiar el signo que toma al ser evaluada en el punto $x_{0}$ en cuestión. Entonces, la regla para determinar si la función presenta un máximo o mínimo en el punto $x_{0}$ de su dominio es la siguiente:
+Sólo hay que derivar la función otra vez. Para calcular la segunda derivada de la función, $f ′′$, se utilizan las reglas de derivación habituales. Una vez calculada la segunda derivada de la función, hay que estudiar el signo que toma al ser evaluada en el punto $x_{0}$ en cuestión. Entonces, la regla para determinar si la función presenta un máximo o mínimo en el punto $x_{0}$ de su dominio es la siguiente:
 
 - En $f'(x_{0}) = 0$ y $f''(x_{0}) < 0$ el punto $(x_{0}, f(x_{0}))$ es un **máximo** de la función $f$.
 - En $f'(x_{0}) = 0$ y $f''(x_{0}) > 0$ el punto $(x_{0}, f(x_{0}))$ es un **mínimo** de la función $f$.
