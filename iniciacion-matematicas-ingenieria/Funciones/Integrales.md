@@ -1,5 +1,17 @@
 [[Iniciacion Matematicas Ingenieria]], [[Calculo]]
 
+- [[#Definición|Definición]]
+- [[#Tabla de integrales inmediatas|Tabla de integrales inmediatas]]
+- [[#Reglas de cálculo|Reglas de cálculo]]
+	- [[#Reglas de cálculo#Suma y resta|Suma y resta]]
+	- [[#Reglas de cálculo#Producto|Producto]]
+	- [[#Reglas de cálculo#Igualdad entre función e integral|Igualdad entre función e integral]]
+	- [[#Reglas de cálculo#Regla de la cadena|Regla de la cadena]]
+	- [[#Reglas de cálculo#Tabla de integrales casi inmediatas|Tabla de integrales casi inmediatas]]
+- [[#Métodos de integración|Métodos de integración]]
+	- [[#Métodos de integración#Método de sustitución o cambio de variable|Método de sustitución o cambio de variable]]
+	- [[#Métodos de integración#Integración por partes|Integración por partes]]
+
 ## Definición
 
 La integración es la operación opuesta a la derivación, siendo la función resultante una función **primitiva** de $f(x)$.
@@ -69,4 +81,13 @@ Consiste en convertir una función en otra más sencilla de integrar.
 ![[Pasted image 20260103125837.png]]
 
 ![[Pasted image 20260103125850.png]]
+
+### Integración por partes
+
+Para integrar por partes, usaremos variables como $u$ en lugar de $f(x)$ y $v$ en lugar de $g(x)$, de manera que se escribe:
+
+$$
+\int u·dv = u·v - \int v·du
+$$
+El orden que seguiremos para definir la función $u$ será: funciones logarítmicas, funciones potencia, funciones trigonométricas, y exponenciales.
 
