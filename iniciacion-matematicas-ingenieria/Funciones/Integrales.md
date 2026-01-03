@@ -58,3 +58,15 @@ $$
 
 ![[Pasted image 20260102192617.png]]
 
+## Métodos de integración
+
+### Método de sustitución o cambio de variable
+
+Consiste en convertir una función en otra más sencilla de integrar.
+
+![[Pasted image 20260103125814.png]]
+
+![[Pasted image 20260103125837.png]]
+
+![[Pasted image 20260103125850.png]]
+
