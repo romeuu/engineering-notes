@@ -17,6 +17,17 @@
 	- [[#Indeterminaciones#0 multiplicado por infinito|0 multiplicado por infinito]]
 	- [[#Indeterminaciones#Infinito menos infinito|Infinito menos infinito]]
 	- [[#Indeterminaciones#1 elevado a infinito|1 elevado a infinito]]
+- [[#Continuidad|Continuidad]]
+	- [[#Continuidad#Discontinuidad de una función|Discontinuidad de una función]]
+		- [[#Discontinuidad de una función#Discontinuidad evitable|Discontinuidad evitable]]
+		- [[#Discontinuidad de una función#Discontinuidad de salto|Discontinuidad de salto]]
+		- [[#Discontinuidad de una función#Discontinuidad asintótica|Discontinuidad asintótica]]
+	- [[#Continuidad#Asíntotas|Asíntotas]]
+		- [[#Asíntotas#Asíntotas verticales|Asíntotas verticales]]
+		- [[#Asíntotas#Asíntotas horizontales|Asíntotas horizontales]]
+		- [[#Asíntotas#Asíntotas oblicuas|Asíntotas oblicuas]]
+- [[#Repaso ejercicios|Repaso ejercicios]]
+
 
 
 El límite de una función en un valor $x$ es igual a un número al que tiende la función cuando la variable tiende a este valor (sin llegar nunca a serlo).

@@ -1,4 +1,4 @@
-[[Iniciacion Matematicas Ingenieria]], [[Calculo]]
+5[[Iniciacion Matematicas Ingenieria]], [[Calculo]]
 
 - [[#Definición|Definición]]
 - [[#Tabla de integrales inmediatas|Tabla de integrales inmediatas]]
@@ -90,4 +90,19 @@ $$
 \int u·dv = u·v - \int v·du
 $$
 El orden que seguiremos para definir la función $u$ será: funciones logarítmicas, funciones potencia, funciones trigonométricas, y exponenciales.
+
+## Integral definida. Regla de Barrow.
+
+La integral definida nace de la necesidad de calcular el área cerrada por una función y el eje X en un cierto intervalo.
+
+### Regla de Barrow
+
+Si $f(x)$ es una función continua en $[a,b]$, y $F(x)$ es una primitiva cualquiera de $f(x)$:
+
+$$
+\int^b_{a} f(x)dx = F(b) - F(a)
+$$
+Podríamos eligir la primitiva que queramos, pero la elegiremos habitualmente con $C=0$ porque es más sencilla.
+
+![[Pasted image 20260103181647.png]]
 
