@@ -14,6 +14,9 @@ Asignatura: [[Álgebra]]
 		- [[#Componentes de la forma polar#Módulo ($r$ o $|z|$)|Módulo ($r$ o $|z|$)]]
 		- [[#Componentes de la forma polar#Argumento ($\alpha$ o $\theta$)|Argumento ($\alpha$ o $\theta$)]]
 	- [[#Forma polar#Pasar de binómica a polar|Pasar de binómica a polar]]
+		- [[#Pasar de binómica a polar#Calcular módulo|Calcular módulo]]
+		- [[#Pasar de binómica a polar#Calcular argumento|Calcular argumento]]
+		- [[#Pasar de binómica a polar#Ejemplo|Ejemplo]]
 
 
 ## Representación de números complejos
@@ -153,3 +156,24 @@ $$
 > [!DANGER] TRAMPA DE ARCOTANGENTE Y CALCULADORA
 > Antes de calcular el arcotangente, visualiza el punto en forma binómica, y mira en que cuadrante está, ya que **si se encuentra en el segundo o tercer cuadrante hay que sumarle 180º** a lo que nos indique la calculadora, ya que esta asume que nuestro ángulo se encuentra en el primer o cuarto cuadrante.
 
+#### Ejemplo
+
+Queremos pasar $z = -3 + 3i$ a forma polar, por lo que tendremos que calcular el módulo y el argumento:
+
+Módulo:
+
+$$
+r = \sqrt{ a² + b^2 } = \sqrt{ (-3)² + 3² } = \sqrt{ 18 }
+$$
+Argumento:
+
+$$
+\alpha = \arctan\left( \frac{b}{a} \right) = \arctan\left( -\frac{3}{3} \right) = -45º + 180º = 135º
+$$
+Se suman 180º ya que podemos comprobar que este número complejo se encontraría representado en el segundo cuadrante, ya que vamos a -3 en las X, y subimos 3 en Y.
+
+Esto nos deja una forma final de:
+
+$$
+\sqrt{ 18 }_{135º}
+$$
