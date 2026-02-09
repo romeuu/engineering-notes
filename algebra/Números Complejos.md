@@ -4,6 +4,8 @@ Asignatura: [[Álgebra]]
 - [[#Representación gráfica|Representación gráfica]]
 - [[#Operaciones con números complejos|Operaciones con números complejos]]
 	- [[#Operaciones con números complejos#Suma y resta de complejos|Suma y resta de complejos]]
+	- [[#Operaciones con números complejos#Producto de complejos|Producto de complejos]]
+
 
 
 ## Representación de números complejos
@@ -52,4 +54,47 @@ Estas operaciones se pueden representar gráficamente utilizando la ley del para
 ![[Pasted image 20260207125922.png]]
 
 ### Producto de complejos
+
+Si es un producto por un escalar, simplemente se multiplica el binomio:
+
+$$
+3 · (1 + 3i) = 3 + 9i
+$$
+
+Si es un producto de binomios de números complejos se hace la multiplicación como si fuesen polinomios, por ejemplo:
+
+$$
+(1+2i) · (4+3i) = 4 + 3i + 8i + 6i² = 4 + 11i + 6i² = 4 + 11i + 6 · (-1) = 11i - 2
+$$
+
+> [!DANGER] Equivalencia de i²
+> Recuerda que i² es igual a -1, por lo tanto, siempre que lo veas lo puedes reemplazar por este valor.
+
+
+### Conjugado de un número complejo
+
+El conjugado de un número complejo $z = a + bi$, es otro número complejo con la misma parte real pero con la parte imaginaria cambiada de signo. El conjugado de un número complejo $z$  se representa como $\tilde{z}$.
+
+Por ejemplo, el conjugado de $1+2i$ sería $1 - 2i$.
+
+![[Pasted image 20260209195846.png]]
+
+Además, existe la propiedad que nos indica que el producto de un número complejo por su conjugado nos dará siempre un número real mayor o igual a 0.
+
+### División de números complejos en forma binómica
+
+#### Dividido por número real
+
+Si dividimos un número complejo en forma binómica por un número real, simplemente dividiremos los miembros de esta expresión por el número real.
+
+$$
+\frac{1+2i}{5} = \frac{1}{5} + \frac{2i}{5}
+$$
+#### Dividido por número complejo
+
+En este caso necesitaremos multiplicar por la misma división pero con el conjugado del denominador de la división original.
+
+$$
+\frac{1+2i}{3-4i} = \frac{1+2i}{3-4i} · \frac{3+4i}{3+4i} = \frac{(1+2i)·(3+4i)}{(3-4i)·(3+4i)} = \frac{3-8+6i+4i}{3² + 4²} = \frac{-5 + 10i}{25} = -\frac{5}{25} + \frac{10}{25}·i = -\frac{1}{5} + \frac{2}{5}·i
+$$
 
