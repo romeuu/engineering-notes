@@ -5,7 +5,15 @@ Asignatura: [[Álgebra]]
 - [[#Operaciones con números complejos|Operaciones con números complejos]]
 	- [[#Operaciones con números complejos#Suma y resta de complejos|Suma y resta de complejos]]
 	- [[#Operaciones con números complejos#Producto de complejos|Producto de complejos]]
-
+	- [[#Operaciones con números complejos#Conjugado de un número complejo|Conjugado de un número complejo]]
+	- [[#Operaciones con números complejos#División de números complejos en forma binómica|División de números complejos en forma binómica]]
+		- [[#División de números complejos en forma binómica#Dividido por número real|Dividido por número real]]
+		- [[#División de números complejos en forma binómica#Dividido por número complejo|Dividido por número complejo]]
+- [[#Forma polar|Forma polar]]
+	- [[#Forma polar#Componentes de la forma polar|Componentes de la forma polar]]
+		- [[#Componentes de la forma polar#Módulo ($r$ o $|z|$)|Módulo ($r$ o $|z|$)]]
+		- [[#Componentes de la forma polar#Argumento ($\alpha$ o $\theta$)|Argumento ($\alpha$ o $\theta$)]]
+	- [[#Forma polar#Pasar de binómica a polar|Pasar de binómica a polar]]
 
 
 ## Representación de números complejos
@@ -97,4 +105,51 @@ En este caso necesitaremos multiplicar por la misma división pero con el conjug
 $$
 \frac{1+2i}{3-4i} = \frac{1+2i}{3-4i} · \frac{3+4i}{3+4i} = \frac{(1+2i)·(3+4i)}{(3-4i)·(3+4i)} = \frac{3-8+6i+4i}{3² + 4²} = \frac{-5 + 10i}{25} = -\frac{5}{25} + \frac{10}{25}·i = -\frac{1}{5} + \frac{2}{5}·i
 $$
+
+
+## Forma polar
+
+Antes habíamos visto como los números complejos se representaban de manera binómica. Además, existe otra manera de representarlos, llamada **forma polar**. Esta forma nos permite llegar al mismo punto en el plano, pero con pasos distintos.
+
+Cuando pensamos en la forma polar, tenemos que pensar en, por ejemplo, un radar militar, ya que si queremos identificar un punto tenemos que saber la apertura del ángulo, y cuanto tenemos que avanzar.
+
+Antes, con forma binómica expresábamos algo como "camina 3 metros al este y 4 metros al norte" $z= 3 + 4i$. Ahora, podemos expresar esto mismo como "Gira 53 grados y camina 5 metros en línea recta" $z=5_{53º}$ o $5 \angle 53^\circ$.
+
+Ambos son compatibles e idénticos, solo que cambiamos el lenguaje.
+
+### Componentes de la forma polar
+
+#### Módulo ($r$ o $|z|$)
+
+El módulo es lo que necesitamos avanzar, o, la **longitud** que necesitamos avanzar desde el punto (0,0).
+
+Este componente siempre va a representar la "magnitud" o "tamaño" del número complejo, y siempre es **positivo**.
+
+#### Argumento ($\alpha$ o $\theta$)
+
+Es el ángulo que forma el módulo con el eje horizontal positivo (el eje de las X).
+
+Este se mide en sentido contrario a las agujas del reloj, y se puede expresar en grados ($360º$) o en radianes ($2\pi$).
+
+### Pasar de binómica a polar
+
+Si tenemos una expresión como $z = a+bi$ y queremos llegar a $r_{\alpha}$, tendremos que calcular el **módulo** y el **argumento**.
+
+#### Calcular módulo
+
+El módulo se calcula de la siguiente manera:
+
+$$
+r = \sqrt{ a² + b² }
+$$
+#### Calcular argumento
+
+Sabemos cuanto mide el cateto opuesto y el contiguo, lo que nos permite utilizar la fórmula de la tangente:
+
+$$
+\tan(\alpha) = \frac{b}{a} \implies \alpha = \arctan\left( \frac{b}{a} \right)
+$$
+
+> [!DANGER] TRAMPA DE ARCOTANGENTE Y CALCULADORA
+> Antes de calcular el arcotangente, visualiza el punto en forma binómica, y mira en que cuadrante está, ya que **si se encuentra en el segundo o tercer cuadrante hay que sumarle 180º** a lo que nos indique la calculadora, ya que esta asume que nuestro ángulo se encuentra en el primer o cuarto cuadrante.
 
