@@ -1,3 +1,4 @@
+Asignatura: [[Fundamentos Computadores]]
 
 - [[#Pasar de binario a decimal|Pasar de binario a decimal]]
 - [[#Pasar de decimal a binario|Pasar de decimal a binario]]
