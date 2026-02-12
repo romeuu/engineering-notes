@@ -17,6 +17,11 @@ Asignatura: [[Álgebra]]
 		- [[#Pasar de binómica a polar#Calcular módulo|Calcular módulo]]
 		- [[#Pasar de binómica a polar#Calcular argumento|Calcular argumento]]
 		- [[#Pasar de binómica a polar#Ejemplo|Ejemplo]]
+	- [[#Forma polar#Pasar de polar a binómica|Pasar de polar a binómica]]
+		- [[#Pasar de polar a binómica#Ejemplo|Ejemplo]]
+	- [[#Forma polar#Operaciones aritméticas con números complejos en forma polar|Operaciones aritméticas con números complejos en forma polar]]
+		- [[#Operaciones aritméticas con números complejos en forma polar#Suma o resta de números complejos en forma polar|Suma o resta de números complejos en forma polar]]
+		- [[#Operaciones aritméticas con números complejos en forma polar#Producto y división de números complejos en forma polar|Producto y división de números complejos en forma polar]]
 
 
 ## Representación de números complejos
@@ -176,4 +181,89 @@ Esto nos deja una forma final de:
 
 $$
 \sqrt{ 18 }_{135º}
+$$
+### Pasar de polar a binómica
+
+Si tenemos un número complejo $a+bi$ y el ángulo que forma con el eje positivo de las $x$, es decir, $z = r_{\theta}$, podríamos determinar que:
+
+$$
+sen(\theta) = \frac{b}{r}
+$$
+$$
+\cos(\theta) = \frac{a}{r}
+$$
+Lo que nos permitiría afirmar que:
+
+$$
+a = r · \cos(\theta)
+$$
+$$
+b = r · sen(\theta)
+$$
+Es decir, el número $r_{\theta}$ en forma binómica es:
+
+$$
+z = r_{\theta} = r · \cos(\theta) + r·sen(\theta) ·i
+$$
+Por lo tanto, la equivalencia entre la forma polar y la forma binómica de un número complejo es:
+
+$$
+r_{\theta} = r·\cos(\theta) + r·sen(\theta) · i = r(\cos(\theta) + sen(\theta)· i)
+$$
+Esta manera de expresar un número complejo recibe el nombre de **forma trigonométrica**.
+
+#### Ejemplo
+
+Si tenemos el número complejo en forma polar $\sqrt{ 3 }_{{\frac{\pi}{6}}}$. ¿Cuál es su representación en forma binómica?
+
+$$
+\sqrt{ 3 }_{\frac{\pi}{6}} = \sqrt{ 3} · \cos\left( \frac{\pi}{6} \right) + \sqrt{ 3 } · sen\left( \frac{\pi}{6} \right) · i
+$$
+$$
+\sqrt{ 3 } · \frac{\sqrt{ 3 }}{2}
+ + \sqrt{ 3 } · \frac{1}{2} · i
+$$
+$$
+\frac{3}{2} + \frac{\sqrt{ 3 }}{2} ·i
+$$
+
+### Operaciones aritméticas con números complejos en forma polar
+
+#### Suma o resta de números complejos en forma polar
+
+Para sumar o restar números complejos en forma polar debemos expresarlos primero en forma binómica y posteriormente sumarlos o restarlos.
+
+Por ejemplo, tenemos $z_{1} = 2_{\pi}$ y $z_{2} = 5_{-\frac{\pi}{2}}$.
+Tendríamos que pasar ambos a forma bińomica:
+
+$$
+z_{1} = 2 · \cos(\pi) + 2 · sen(\pi) · i = -2
+$$
+$$
+z_{2} = 5 · \cos\left( -\frac{\pi}{2} \right) + 5·sen\left( -\frac{\pi}{2} \right) · i = -5i
+$$
+$$
+z_{1} + z_{2} = -2 + (-5i) = -2 -5i
+$$
+$$
+z_{1} - z_{2} = -2 - (-5i) = -2 + 5i
+$$
+#### Producto y división de números complejos en forma polar
+
+Para multiplicar dos números en forma polar se multiplican los módulos y se suma los argumentos.
+
+Si tenemos la siguiente multiplicación:
+
+$$
+z_{1} · z_{2} = 2_{\pi} · 5_{-\frac{\pi}{2}} = (2·5)_{\pi+\left( -\frac{\pi}{2} \right)} = 10_{\frac{\pi}{2}}
+$$
+En un caso genérico se podría llegar a la siguiente fórmula:
+
+$$
+r_{\theta_{1}} · s_{\theta_{2}} = (r·s)_{\theta_{1}+\theta_{2}}
+$$
+De manera similar, para la división deberemos dividir los módulos y se restan los argumentos.
+
+$$
+\frac{z_{1}}{z_{2}} = \frac{2_{\pi}}{5_{-\frac{\pi}{2}}} = \frac{2}{5}_{\pi-\left( -\frac{\pi}{2} \right)} = \frac{2}{5}_{\frac{3·\pi}{2}}
 $$
