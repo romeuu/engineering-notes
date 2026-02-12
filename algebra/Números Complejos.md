@@ -267,3 +267,34 @@ De manera similar, para la división deberemos dividir los módulos y se restan 
 $$
 \frac{z_{1}}{z_{2}} = \frac{2_{\pi}}{5_{-\frac{\pi}{2}}} = \frac{2}{5}_{\pi-\left( -\frac{\pi}{2} \right)} = \frac{2}{5}_{\frac{3·\pi}{2}}
 $$
+
+## Forma exponencial
+
+La función exponencial real es la suma de infinitos términos:
+
+$$
+e^x = 1 + x + \frac{x²}{2!} + \frac{x³}{3!} + \frac{x⁴}{4!}+\dots
+$$
+![[Pasted image 20260212210440.png]]
+
+Siguiendo la demostración, podemos determinar lo siguiente:
+
+$$
+e^{\theta i} = \cos(\theta) + sen(\theta)i
+$$
+Este resultado lo denominamos la **Fórmula de Euler**.
+
+Además, como sabemos que un número complejo lo podemos expresar como $z = r(\cos(\theta) + sen(\theta) · i)$, llegaremos a la conclusión de que la forma exponencial de un número complejo es:
+
+$$
+z = r · e^{\theta i}
+$$
+En el que $r = |z|$ es el módulo de $z$ y $\theta$ es el argumento de $z$.
+
+La representación polar de un número complejo es, pues, equivalente a la representación exponencial del mismo número complejo. En efecto:
+
+$$
+r·e^{\theta i} = r·(\cos(\theta) + i · sen(\theta)) = r_{\theta}
+$$
+
+![[Pasted image 20260212210918.png]]
