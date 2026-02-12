@@ -22,6 +22,11 @@ Asignatura: [[Álgebra]]
 	- [[#Forma polar#Operaciones aritméticas con números complejos en forma polar|Operaciones aritméticas con números complejos en forma polar]]
 		- [[#Operaciones aritméticas con números complejos en forma polar#Suma o resta de números complejos en forma polar|Suma o resta de números complejos en forma polar]]
 		- [[#Operaciones aritméticas con números complejos en forma polar#Producto y división de números complejos en forma polar|Producto y división de números complejos en forma polar]]
+- [[#Forma exponencial|Forma exponencial]]
+	- [[#Forma exponencial#Operaciones aritméticas|Operaciones aritméticas]]
+		- [[#Operaciones aritméticas#Multiplicación|Multiplicación]]
+		- [[#Operaciones aritméticas#División|División]]
+		- [[#Operaciones aritméticas#Potencia|Potencia]]
 
 
 ## Representación de números complejos
@@ -298,3 +303,45 @@ r·e^{\theta i} = r·(\cos(\theta) + i · sen(\theta)) = r_{\theta}
 $$
 
 ![[Pasted image 20260212210918.png]]
+
+### Operaciones aritméticas
+
+Vamos a utilizar estos dos números complejos para los ejemplos:
+
+$$
+z = 3 · e^{\frac{\pi}{3}·i}
+$$
+$$
+w = 2 · e^{\frac{\pi}{6}·i}
+$$
+
+#### Multiplicación
+
+Tendríamos que multiplicar los módulos y sumar los argumentos.
+
+En el ejemplo anterior quedaría:
+
+$$
+(3·2)·e^{(\frac{\pi}{3} + \frac{\pi}{6})·i} = 6·e^{\frac{\pi}{2}i}
+$$
+#### División
+
+Tendríamos que dividir los módulos y restar los argumentos.
+
+En el ejemplo anterior quedaría:
+
+$$
+\left( \frac{3}{2} \right)·e^{\left( \frac{\pi}{3} - \frac{\pi}{6} \right)·i} = \frac{3}{2}·e^{\frac{\pi}{6}i}
+$$
+#### Potencia
+
+Si queremos elevar un número complejo a una determinada potencia tendremos que aplicar la siguiente fórmula:
+
+$$
+(r·e^{\theta i})^n = r^n · e^{n\theta i}
+$$
+Si queremos aplicar el ejemplo anterior y hacer $z³$, haríamos lo siguiente:
+
+$$
+r³ · e^{3·\theta·i} = 3³ + e^{3 · \frac{\pi}{3}i} = 27·e^{\pi·i}
+$$
