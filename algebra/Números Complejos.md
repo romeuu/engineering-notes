@@ -370,3 +370,11 @@ Estas expresiones binómicas serán nuestras soluciones.
 Si queremos resolver $z³ = -8$:
 
 ![[Pasted image 20260216190524.png]]
+
+### Representación gráfica
+
+Si representamos este tipo de problemas en el plano, veremos como dependiendo del índice de la raíz, surge una figura u otra. En caso de una raíz cúbica, resultará un triángulo, ya que nos aportaría 3 soluciones. Si fuese una raíz cuarta, sería un cuadrado, ya que tiene 4 soluciones, y así sucesivamente. Esto nos lleva a afirmar que cada solución encontrada, será igual a un nuevo vértice en nuestra representación gráfica.
+
+![[Pasted image 20260216193639.png]]
+
+![[Pasted image 20260216193649.png]]
