@@ -345,3 +345,28 @@ Si queremos aplicar el ejemplo anterior y hacer $z³$, haríamos lo siguiente:
 $$
 r³ · e^{3·\theta·i} = 3³ + e^{3 · \frac{\pi}{3}i} = 27·e^{\pi·i}
 $$
+
+## Raíces enésimas
+
+Si queremos calcular las raíces enésimas de un número complejo tendremos que pasar este a forma polar para posteriormente aplicar la fórmula de las raíces enésimas:
+
+$$
+\frac{\theta + 2·\pi·k}{n}
+$$
+Siendo $n$ dependiente del tipo de raíz que se calcule, ya que si es una cúbica, será 3, si es una cuarta será 4, etc.
+
+El módulo de estas soluciones ($r$), será la raíz cúbica, cuarta, etc de nuestro número original, por ejemplo, si queremos calcular las raíces cúbicas de 8, tendríamos que el módulo es 2, ya que $2³ = 8$.
+
+Una vez tengamos las soluciones en forma polar las pasaremos a su forma binómica utilizando la fórmula:
+
+$$
+z = R(\cos \alpha + i · \sin \alpha)
+$$
+
+Estas expresiones binómicas serán nuestras soluciones.
+
+### Ejemplo
+
+Si queremos resolver $z³ = -8$:
+
+![[Pasted image 20260216190524.png]]
